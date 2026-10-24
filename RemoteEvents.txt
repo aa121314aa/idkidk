@@ -1,0 +1,3625 @@
+═══════════════════════════════════════
+  远程事件输出  |  2026-10-25 03:08:08
+  游戏: [僵尸！] BloxStrike   PlaceId: 114234929420007
+  反编译渠道: Luacid 在线 API
+  总计: 207 个
+═══════════════════════════════════════
+
+── [1/207] OnShoot ──
+类型: BindableEvent
+路径: game.Workspace.Map.Geometry.GeometryHellena.Model.OnShoot
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [2/207] OnShoot ──
+类型: BindableEvent
+路径: game.Workspace.Map.Geometry.GeometryHellena.Model.OnShoot
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [3/207] OnShoot ──
+类型: BindableEvent
+路径: game.Workspace.Map.Geometry.GeometryHellena.BellStack.Model.OnShoot
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [4/207] OnShoot ──
+类型: BindableEvent
+路径: game.Workspace.Map.Geometry.GeometryHellena.BellStack.OnShoot
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [5/207] BAC ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.Remotes.BAC
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [6/207] Control ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.MovementV2Remotes.Control
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [7/207] Diagnostics ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.MovementV2Remotes.Diagnostics
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [8/207] Trace ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.MovementV2Remotes.Trace
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [9/207] CreateVoxelFire ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.CreateVoxelFire
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [10/207] BreakGlass ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.BreakGlass
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [11/207] CreateImpact ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [12/207] DestroyVoxelSmoke ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.DestroyVoxelSmoke
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [13/207] CreateVoxelSmoke ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.CreateVoxelSmoke
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [14/207] DisruptVoxelSmoke ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.DisruptVoxelSmoke
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [15/207] CreateMarker ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [16/207] ReplicateFinisher ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.ReplicateFinisher
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [17/207] CreateBloodSplatter ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.CreateBloodSplatter
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [18/207] DestroyVoxelFire ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.DestroyVoxelFire
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [19/207] CreateTracer ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [20/207] UpdateVoxelFire ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.UpdateVoxelFire
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [21/207] FlashPlayer ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.FlashPlayer
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [22/207] CreateCharacterMuzzleFlash ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [23/207] CleanupDebris ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VFX.CleanupDebris
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [24/207] ClientEvent ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Tutorial.ClientEvent
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [25/207] EndScreen ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Match.EndScreen
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [26/207] EndMapVote ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Map.EndMapVote
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [27/207] RequestMapVote ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Map.RequestMapVote
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [28/207] StartMapVote ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Map.StartMapVote
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [29/207] UpdateMapVote ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Map.UpdateMapVote
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [30/207] SubmitMapVote ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Map.SubmitMapVote
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [31/207] ClaimStarReward ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Dashboard.ClaimStarReward
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [32/207] RedeemCode ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Dashboard.RedeemCode
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [33/207] RedeemPromotionalReward ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Dashboard.RedeemPromotionalReward
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [34/207] MissionCompleted ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Dashboard.MissionCompleted
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [35/207] PlayerDataEvent ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.PlayerData.PlayerDataEvent
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [36/207] RetrieveAllPlayerData ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.PlayerData.RetrieveAllPlayerData
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [37/207] PinResult ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.PlayerData.PinResult
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [38/207] SubmitPin ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.PlayerData.SubmitPin
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [39/207] PlayerDataChanged ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.PlayerData.PlayerDataChanged
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [40/207] Start ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.C4.Start
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [41/207] Planted ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.C4.Planted
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [42/207] Cancel ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.C4.Cancel
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [43/207] ForceCancel ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.C4.ForceCancel
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [44/207] CancelDefuse ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.C4.CancelDefuse
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [45/207] StartDefuse ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.C4.StartDefuse
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [46/207] Defused ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.C4.Defused
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [47/207] CancelRescue ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Hostage.CancelRescue
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [48/207] PickedUp ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Hostage.PickedUp
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [49/207] StartRescue ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Hostage.StartRescue
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [50/207] CreatePlayerPositionPing ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Ping.CreatePlayerPositionPing
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [51/207] TeammateGrenades ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.UI.TeammateGrenades
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [52/207] CreateMenuNotification ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.UI.CreateMenuNotification
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [53/207] ShowDeathCard ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.UI.ShowDeathCard
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [54/207] RoundWinner ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.UI.RoundWinner
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [55/207] UpdateCreatorCode ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.UI.UpdateCreatorCode
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [56/207] RoundDamageMatrix ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.UI.RoundDamageMatrix
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [57/207] EquipCreatorCode ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.UI.EquipCreatorCode
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [58/207] UIPlayerKilled ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.UI.UIPlayerKilled
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [59/207] CreateDamageIndicator ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.UI.CreateDamageIndicator
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [60/207] ShowNotification ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.UI.ShowNotification
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [61/207] RoundMVP ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.UI.RoundMVP
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [62/207] CreateEntity ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Entity.CreateEntity
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [63/207] InteractWithEntity ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Entity.InteractWithEntity
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [64/207] DestroyEntity ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Entity.DestroyEntity
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [65/207] Death ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Horde.Death
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [66/207] Remove ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Horde.Remove
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [67/207] Clear ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Horde.Clear
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [68/207] Spawn ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Horde.Spawn
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [69/207] Sync ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Horde.Sync
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [70/207] Hit ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Horde.Hit
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [71/207] TradeUpItems ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.TradeUpItems
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [72/207] TradeUpDenied ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.TradeUpDenied
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [73/207] PurchaseTradeTokensCase ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.PurchaseTradeTokensCase
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [74/207] PurchaseTradeTokensProduct ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.PurchaseTradeTokensProduct
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [75/207] OpenCase ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.OpenCase
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [76/207] TradeUpCompleted ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.TradeUpCompleted
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [77/207] NewInventoryItem ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.NewInventoryItem
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [78/207] CreateGift ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.CreateGift
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [79/207] OpenedShop ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.OpenedShop
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [80/207] ConsoleOpened ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.ConsoleOpened
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [81/207] CaseOpenDenied ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.CaseOpenDenied
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [82/207] OpenConsole ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.OpenConsole
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [83/207] GiftCase ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.GiftCase
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [84/207] PurchaseCase ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.PurchaseCase
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [85/207] CaseOpened ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.CaseOpened
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [86/207] CaseOpenSequenceFinished ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.CaseOpenSequenceFinished
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [87/207] PurchaseConsoleTradeTokens ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Store.PurchaseConsoleTradeTokens
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [88/207] Use ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.BreakableDoor.Use
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [89/207] Resolved ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.BreakableDoor.Resolved
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [90/207] MeleeAttack ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Melee.MeleeAttack
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [91/207] ServerTeamChat ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Chat.ServerTeamChat
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [92/207] ChatTradeUp ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Chat.ChatTradeUp
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [93/207] ChatPlayerBanned ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Chat.ChatPlayerBanned
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [94/207] ChatMoneyReward ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Chat.ChatMoneyReward
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [95/207] ServerChat ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Chat.ServerChat
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [96/207] ChatPlayerKilled ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Chat.ChatPlayerKilled
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [97/207] ChatPlayerLeave ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Chat.ChatPlayerLeave
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [98/207] ChatSystemMessage ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Chat.ChatSystemMessage
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [99/207] ClientChat ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Chat.ClientChat
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [100/207] ChatDefuseStart ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Chat.ChatDefuseStart
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [101/207] ChatTeamJoin ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Chat.ChatTeamJoin
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [102/207] ChatCaseOpened ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Chat.ChatCaseOpened
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [103/207] ChatTeamDamage ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Chat.ChatTeamDamage
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [104/207] ChatGrenadeThrow ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Chat.ChatGrenadeThrow
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [105/207] Teleport ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.ServerBrowser.Teleport
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [106/207] RequestMatchDetails ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Career.RequestMatchDetails
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [107/207] RequestStatistics ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Career.RequestStatistics
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [108/207] MatchDetails ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Career.MatchDetails
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [109/207] Statistics ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Career.Statistics
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [110/207] SelectTeam ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.TeamSelection.SelectTeam
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [111/207] Spawn ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Projectile.Spawn
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [112/207] Bounce ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Projectile.Bounce
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [113/207] Resolve ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Projectile.Resolve
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [114/207] StopSoundAtPosition ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Sound.StopSoundAtPosition
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [115/207] ReplicateSound ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [116/207] MedalAutoClip ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Collaborations.MedalAutoClip
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [117/207] ClaimExclusiveMedalReward ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Collaborations.ClaimExclusiveMedalReward
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [118/207] RefreshMedalStatus ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Collaborations.RefreshMedalStatus
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [119/207] SpectatePlayer ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Spectate.SpectatePlayer
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [120/207] StopSpectating ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Spectate.StopSpectating
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [121/207] SetSpectatePerspective ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Spectate.SetSpectatePerspective
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [122/207] StartSpectating ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Spectate.StartSpectating
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [123/207] DropWeapon ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.DropWeapon
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [124/207] UpdateStatTrack ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.UpdateStatTrack
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [125/207] LoadoutResponse ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.LoadoutResponse
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [126/207] BuyMenuPurchase ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.BuyMenuPurchase
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [127/207] ReturnBuyMenuPurchase ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.ReturnBuyMenuPurchase
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [128/207] RemoveInventoryItem ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.RemoveInventoryItem
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [129/207] RefillAmmo ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.RefillAmmo
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [130/207] UpdateWeaponCharm ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.UpdateWeaponCharm
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [131/207] PickupWeapon ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.PickupWeapon
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [132/207] UpdateWeaponSuppressor ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.UpdateWeaponSuppressor
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [133/207] ReloadWeapon ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.ReloadWeapon
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [134/207] CreateMagazine ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.CreateMagazine
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [135/207] CleanupGameLoadout ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.CleanupGameLoadout
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [136/207] RemoveWeaponCharm ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.RemoveWeaponCharm
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [137/207] SwapLoadoutSkins ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.SwapLoadoutSkins
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [138/207] RequestSpectatedPlayerInventory ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.RequestSpectatedPlayerInventory
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [139/207] EquipLoadoutSkin ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.EquipLoadoutSkin
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [140/207] CreateGameLoadout ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.CreateGameLoadout
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [141/207] NewInventoryItem ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.NewInventoryItem
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [142/207] UpdateScopeIncrement ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.UpdateScopeIncrement
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [143/207] EquipSpecialItem ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.EquipSpecialItem
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [144/207] ShootWeapon ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.ShootWeapon
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [145/207] WeaponEquipResolved ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.WeaponEquipResolved
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [146/207] SpectatedPlayerInventory ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Inventory.SpectatedPlayerInventory
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [147/207] ListItemResult ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ListItemResult
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [148/207] ProfileInfo ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ProfileInfo
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [149/207] ClearListing ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [150/207] ListItem ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ListItem
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [151/207] SearchMarket ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.SearchMarket
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [152/207] NewItem ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.NewItem
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [153/207] FetchedRAP ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.FetchedRAP
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [154/207] EndLoad ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.EndLoad
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [155/207] RequestProfileInfo ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.RequestProfileInfo
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [156/207] PurchaseItemResult ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.PurchaseItemResult
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [157/207] FetchRAP ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.FetchRAP
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [158/207] DelistItem ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.DelistItem
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [159/207] PurchaseItem ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.PurchaseItem
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [160/207] PurchasedItem ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.PurchasedItem
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [161/207] RefreshInventory ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.RefreshInventory
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [162/207] SearchMarketResults ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.SearchMarketResults
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [163/207] ExecuteAction ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VIP.ExecuteAction
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [164/207] RequestData ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VIP.RequestData
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [165/207] SyncState ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VIP.SyncState
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [166/207] DataResponse ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VIP.DataResponse
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [167/207] SetSetting ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VIP.SetSetting
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [168/207] BombSiteEntered ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Hints.BombSiteEntered
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [169/207] ClearHint ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Hints.ClearHint
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [170/207] BombSiteExited ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Hints.BombSiteExited
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [171/207] SelectGamemode ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Modes.SelectGamemode
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [172/207] FetchServers ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Modes.FetchServers
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [173/207] SendPlayerCounts ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Modes.SendPlayerCounts
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [174/207] FetchPlayerCounts ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Modes.FetchPlayerCounts
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [175/207] EndVote ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VoteKick.EndVote
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [176/207] CallVote ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VoteKick.CallVote
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [177/207] VoteNoUpdate ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VoteKick.VoteNoUpdate
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [178/207] StartVote ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VoteKick.StartVote
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [179/207] VoteYesUpdate ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VoteKick.VoteYesUpdate
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [180/207] VoteNo ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VoteKick.VoteNo
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [181/207] VoteYes ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.VoteKick.VoteYes
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [182/207] ReportPlayerConnect ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Player.ReportPlayerConnect
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [183/207] UpdateMobileButtons ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Player.UpdateMobileButtons
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [184/207] PressedPlay ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Player.PressedPlay
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [185/207] NewInventoryItemsSeen ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Player.NewInventoryItemsSeen
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [186/207] MarkShopVersionViewed ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Player.MarkShopVersionViewed
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [187/207] SubmitUserPlatformAnalytics ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Player.SubmitUserPlatformAnalytics
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [188/207] AFKTeleport ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Player.AFKTeleport
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [189/207] MarkTutorialPrompted ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Player.MarkTutorialPrompted
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [190/207] SetViewmodelHand ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Player.SetViewmodelHand
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [191/207] UpdatePlayerSettings ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Player.UpdatePlayerSettings
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [192/207] BlankRequest ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Player.BlankRequest
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [193/207] SubmitPlayerReport ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Player.SubmitPlayerReport
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [194/207] StartRevive ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Survival.StartRevive
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [195/207] CollectCandy ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Survival.CollectCandy
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [196/207] CandyDrop ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Survival.CandyDrop
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [197/207] CancelRevive ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Survival.CancelRevive
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [198/207] CandyVacuum ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Survival.CandyVacuum
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [199/207] Spin ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Halloween.Spin
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [200/207] SpinResult ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Halloween.SpinResult
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [201/207] CharacterDied ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Character.CharacterDied
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [202/207] Action ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Character.Action
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [203/207] CharacterDamaged ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.Character.CharacterDamaged
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [204/207] RequestDeal ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.BlackMarketDealer.RequestDeal
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [205/207] DealData ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.BlackMarketDealer.DealData
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [206/207] BuyCardResult ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.BlackMarketDealer.BuyCardResult
+
+关联脚本:
+-- [未找到关联脚本]
+
+── [207/207] BuyCard ──
+类型: RemoteEvent
+路径: game.ReplicatedStorage.NetworkRemotes.BlackMarketDealer.BuyCard
+
+关联脚本:
+-- [未找到关联脚本]
+
+
+
+═══ 实时流量捕获批次 (+722 条 | 累计 722) ═══
+[#1] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing | 03:08:08
+  arg[1](buffer) = buffer: 0x762709d61763f536
+  arg[2](table) = table: 0xb0db007b704651a3
+[#2] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0x945de22b19fd3e90
+  arg[2](table) = table: 0xab8185725960dfc0
+[#3] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0xdff170295fc13737
+  arg[2](table) = table: 0xaf7fbe8210b95bad
+[#4] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing | 03:08:08
+  arg[1](buffer) = buffer: 0x1115d34340a9e3ce
+  arg[2](table) = table: 0x9a8230aaf7b2650a
+[#5] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0x3a0493cc872e60b7
+  arg[2](table) = table: 0x49c8222832c3e139
+[#6] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0x5668bc463137437a
+  arg[2](table) = table: 0xbe42d179fde48b39
+[#7] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0x1e34f96531a628c2
+  arg[2](table) = table: 0xcc5ff683f0aba8ab
+[#8] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0xc53b050286c3d73a
+  arg[2](table) = table: 0x71a19a05dd2863e2
+[#9] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0xa3e69a7eda47698b
+  arg[2](table) = table: 0x4478767fa4db1bd1
+[#10] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Inventory.SpectatedPlayerInventory | 03:08:08
+  arg[1](buffer) = buffer: 0x712a91f495555aad
+  arg[2](table) = table: 0xed9e690b1e298ca0
+[#11] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0x917bef671384c359
+  arg[2](table) = table: 0x3175c14c01ea0767
+[#12] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0xef49719a992c2812
+  arg[2](table) = table: 0xba480b5c8cc97465
+[#13] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0x958abea38841c190
+  arg[2](table) = table: 0x5e7c3cb7a0b3ba87
+[#14] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0xe09acc90bd1d8bdb
+  arg[2](table) = table: 0x1369cd16215cc30e
+[#15] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0x57b660c75ce7f751
+  arg[2](table) = table: 0xd1f6a1e3f2a6e97d
+[#16] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.PlayerData.PlayerDataChanged | 03:08:08
+  arg[1](buffer) = buffer: 0x75e8b36cd02cb349
+  arg[2](table) = table: 0x641f4db2ac21d66f
+[#17] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.PlayerData.PlayerDataChanged | 03:08:08
+  arg[1](buffer) = buffer: 0x2a4ecc7e8cbb6d4b
+  arg[2](table) = table: 0x68d19f5e5e186e7a
+[#18] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0x5bea10bc1e42e544
+  arg[2](table) = table: 0xfccd407ca8a19035
+[#19] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0xeea7be313b2ce4c4
+  arg[2](table) = table: 0xe146cfcc3d0906c3
+[#20] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0x1a8be1d8c63f2d84
+  arg[2](table) = table: 0x2cbc86fcee510722
+[#21] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0x9f58806bf0214bab
+  arg[2](table) = table: 0xc42af6b298958076
+[#22] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0x043dd687c312e8e9
+  arg[2](table) = table: 0xec51744f52ab105f
+[#23] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:08
+  arg[1](buffer) = buffer: 0xd2bfe41ce66c09f5
+  arg[2](table) = table: 0xb31acb919b4618ff
+[#24] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0x72898997ad2cda92
+  arg[2](table) = table: 0x08e094f7787988a3
+[#25] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0x396aaa18548ff698
+  arg[2](table) = table: 0x2704acec6852a734
+[#26] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0x690fe88c1a02e8e8
+  arg[2](table) = table: 0x11902ec8e6513d3c
+[#27] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0x95e9be350a56e22f
+  arg[2](table) = table: 0x7628f2bbd98e0665
+[#28] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0x3974f0cc26fbba30
+  arg[2](table) = table: 0x87c1f87a796dce20
+[#29] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0x0e040a5f17978163
+  arg[2](table) = table: 0xec4f960ee7a12289
+[#30] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0x433e942a1875e9b4
+  arg[2](table) = table: 0xa86af7cf15c5741b
+[#31] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0x07075bb869999eba
+  arg[2](table) = table: 0x755598a43a130b62
+[#32] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0xa74d689886aafe53
+  arg[2](table) = table: 0xcbc3b740909fe09d
+[#33] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0x6096cf7269cf18f7
+  arg[2](table) = table: 0xfcd5baece5d645be
+[#34] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0x86ba9262b7225b91
+  arg[2](table) = table: 0xf5794d89b213531a
+[#35] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0x585683a16c6e5376
+  arg[2](table) = table: 0xf8b8e2c0fb75a00e
+[#36] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0x4beee0e1f61ec0d4
+  arg[2](table) = table: 0x6a745c413bcb3af8
+[#37] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0x79e86c2c27f27771
+  arg[2](table) = table: 0xbac8cd1968fd1a17
+[#38] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:09
+  arg[1](buffer) = buffer: 0xbedd074f34724ebd
+  arg[2](table) = table: 0x54799e04952ee11b
+[#39] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:10
+  arg[1](buffer) = buffer: 0x56a8a3da35435e2a
+  arg[2](table) = table: 0x0f7d0847551e4462
+[#40] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:10
+  arg[1](buffer) = buffer: 0x8edc0fa16e25851d
+  arg[2](table) = table: 0x8236f228f59455ce
+[#41] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:10
+  arg[1](buffer) = buffer: 0x1e00ca022472f8ed
+  arg[2](table) = table: 0xe9eabe008be9f175
+[#42] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:10
+  arg[1](buffer) = buffer: 0x2e0a9aea3165075a
+  arg[2](table) = table: 0x884dab83b205f439
+[#43] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:10
+  arg[1](buffer) = buffer: 0xb8e372bc5dd1d4a7
+  arg[2](table) = table: 0xe96ae1f232a87620
+[#44] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:10
+  arg[1](buffer) = buffer: 0xb4511bf2a82e9283
+  arg[2](table) = table: 0x84226dbecf85148e
+[#45] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:10
+  arg[1](buffer) = buffer: 0xef1730d29d432b17
+  arg[2](table) = table: 0xe213d1a90326dd63
+[#46] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:10
+  arg[1](buffer) = buffer: 0x04a9fcee95418dd3
+  arg[2](table) = table: 0x02ab891366f2f6da
+[#47] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:10
+  arg[1](buffer) = buffer: 0xbf510f5c68d34590
+  arg[2](table) = table: 0x57aab8739dff79b8
+[#48] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:10
+  arg[1](buffer) = buffer: 0x9902c7037b49e350
+  arg[2](table) = table: 0x4d9f1aaaf32c0da9
+[#49] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:10
+  arg[1](buffer) = buffer: 0x6e85b3e4129d099f
+  arg[2](table) = table: 0x745e520636ef4bf5
+[#50] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:10
+  arg[1](buffer) = buffer: 0x7fda1cd477b39b00
+  arg[2](table) = table: 0x253d96034ae4c6bf
+[#51] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:10
+  arg[1](buffer) = buffer: 0x6e65ae1c8a46f8c8
+  arg[2](table) = table: 0x308090b52723d9b0
+[#52] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:10
+  arg[1](buffer) = buffer: 0x29334ea3946f72dd
+  arg[2](table) = table: 0x0329ddacf11d3a08
+[#53] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:10
+  arg[1](buffer) = buffer: 0x9fd35be584c3a1e4
+  arg[2](table) = table: 0xd863a3ea215817a7
+[#54] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing | 03:08:10
+  arg[1](buffer) = buffer: 0x321692fed4940a79
+  arg[2](table) = table: 0x79ad6642d8b95631
+[#55] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0xd9074bc394900004
+  arg[2](table) = table: 0x7a2feece983a4b90
+[#56] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0x44c21873ef63a696
+  arg[2](table) = table: 0xc3ec650514f2eadc
+[#57] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0xe2265440af998753
+  arg[2](table) = table: 0xa631fd12bfeb296c
+[#58] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0x1dafe73a61dd00cb
+  arg[2](table) = table: 0xf0df5a07858678b9
+[#59] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0x4fe6be91b354b369
+  arg[2](table) = table: 0x9efb8c318174d737
+[#60] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing | 03:08:11
+  arg[1](buffer) = buffer: 0x3a8a1cdf8af59220
+  arg[2](table) = table: 0xaf88fd6365b3d58d
+[#61] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0x436f6bf5191a0308
+  arg[2](table) = table: 0x9c4ab6dc105a6b21
+[#62] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0xb75678843493ecaa
+  arg[2](table) = table: 0xedfc86581b1d7166
+[#63] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0xb5338b19df37d30a
+  arg[2](table) = table: 0x11ce314dc884e1ea
+[#64] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0xc48b460dcb073a9f
+  arg[2](table) = table: 0xa917e8480a433eae
+[#65] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0x710017c9d7ebda70
+  arg[2](table) = table: 0x9e028a9d42c9ebe0
+[#66] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0xec97cb63681f7d55
+  arg[2](table) = table: 0x392d9abd7071cc7b
+[#67] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0x062a61584c69d1a2
+  arg[2](table) = table: 0x3b79c146350fca02
+[#68] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0x9d3eed99c92767a3
+  arg[2](table) = table: 0xe1505ad64b7d7b95
+[#69] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0xf8ad58322d4bc088
+  arg[2](table) = table: 0xd03afb05c89c8c18
+[#70] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0x0e1abcea09dd96f2
+  arg[2](table) = table: 0x052d0d86a61dd477
+[#71] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0x250aad992a74b745
+  arg[2](table) = table: 0xa46dd5cedda5c7ec
+[#72] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Player.BlankRequest | 03:08:11
+  arg[1](buffer) = buffer: 0x8ba447cd4f98f521
+  arg[2](table) = table: 0x078f5611c237bd5e
+[#73] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0xc054c0e513f1f12d
+  arg[2](table) = table: 0xe8e66cd36e4d99f4
+[#74] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0x29c370f0021ad738
+  arg[2](table) = table: 0x815f07a0a210f248
+[#75] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0xda7ac03b7b06c102
+  arg[2](table) = table: 0x891d238a111700a8
+[#76] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0x93d0a45da16aa982
+  arg[2](table) = table: 0x46ca138508786394
+[#77] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0x8b772911eab94284
+  arg[2](table) = table: 0x41f0173ff6d731dc
+[#78] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing | 03:08:11
+  arg[1](buffer) = buffer: 0xab805d71c492604e
+  arg[2](table) = table: 0xdff7f192e79db13b
+[#79] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:11
+  arg[1](buffer) = buffer: 0xa98c6b49c98b283c
+  arg[2](table) = table: 0x9c8865ee478c15b4
+[#80] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:12
+  arg[1](buffer) = buffer: 0x83744e381d8722a3
+  arg[2](table) = table: 0xa4a747ccb7bd1566
+[#81] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:12
+  arg[1](buffer) = buffer: 0x5d0f40e67da7f2b4
+  arg[2](table) = table: 0xc561f53d04c5b7ab
+[#82] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:12
+  arg[1](buffer) = buffer: 0x710a43fd511b8ad7
+  arg[2](table) = table: 0x6cf94b1c3cc6bd4c
+[#83] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:12
+  arg[1](buffer) = buffer: 0xb266fd058ddb55fd
+  arg[2](table) = table: 0x51b36d6c63051ef6
+[#84] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:12
+  arg[1](buffer) = buffer: 0xb45a3d46a87dec22
+  arg[2](table) = table: 0x0e0533b92a6f4c14
+[#85] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:12
+  arg[1](buffer) = buffer: 0x432cba02798e8a19
+  arg[2](table) = table: 0xbf3c22d0757060a6
+[#86] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:12
+  arg[1](buffer) = buffer: 0x150ee2d3ea1a9c0f
+  arg[2](table) = table: 0x1b8df9624f532207
+[#87] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:12
+  arg[1](buffer) = buffer: 0x298144a5acb780bc
+  arg[2](table) = table: 0xcdabc05fd1da6a66
+[#88] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:12
+  arg[1](buffer) = buffer: 0x3f8e6eda4f1a3d55
+  arg[2](table) = table: 0x80a9e0e8c8dd86a6
+[#89] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:12
+  arg[1](buffer) = buffer: 0x6d76f233743e3854
+  arg[2](table) = table: 0x48aa4fe04caf89b3
+[#90] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:12
+  arg[1](buffer) = buffer: 0xa028bb90fea9e606
+  arg[2](table) = table: 0xec5fef47d9cb24b8
+[#91] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:12
+  arg[1](buffer) = buffer: 0x91a2662da0292294
+  arg[2](table) = table: 0x6f6bf789dd114681
+[#92] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:12
+  arg[1](buffer) = buffer: 0x3d9d618590ae4f27
+  arg[2](table) = table: 0x1ff756c621bafa31
+[#93] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Projectile.Spawn | 03:08:12
+  arg[1](buffer) = buffer: 0x50b6e54f113b92e8
+  arg[2](table) = table: 0xcb25a017ab598fbc
+[#94] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0x0917fffc9ee5c021
+  arg[2](table) = table: 0x81feb2697b253e4b
+[#95] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0x6343531383fde021
+  arg[2](table) = table: 0x3c2458a83c9c0093
+[#96] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0x44b10bd1c77ed6cc
+  arg[2](table) = table: 0xa13200f1ce2a42eb
+[#97] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0x0376cc111ce051d1
+  arg[2](table) = table: 0xf126778f1b0528f2
+[#98] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0x36eb0e2b228e10c3
+  arg[2](table) = table: 0xd8f542c9bbb094a9
+[#99] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing | 03:08:13
+  arg[1](buffer) = buffer: 0xdc80cb239e942399
+  arg[2](table) = table: 0xbbb7dcc40faec5fd
+[#100] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0xd69f1e49f137f1e8
+  arg[2](table) = table: 0x736c70babc3a6a77
+[#101] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0x32e9d1a874409498
+  arg[2](table) = table: 0xac95eeb28c2ef689
+[#102] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0x4a5a2d26655d163d
+  arg[2](table) = table: 0xce02461911964ef3
+[#103] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0x2b954dcf55ecd8ac
+  arg[2](table) = table: 0x26ce5147d7b66216
+[#104] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0xdf80573fabe911c0
+  arg[2](table) = table: 0x8b13051294453f69
+[#105] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0x2246debb8d0c1809
+  arg[2](table) = table: 0xc5caf5de6e7e53fb
+[#106] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0x77ddb86aec2665ba
+  arg[2](table) = table: 0x55edefcf7b22ac1c
+[#107] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0x619ca343cd66304b
+  arg[2](table) = table: 0x70ce869801362b4a
+[#108] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0x04a823190c177391
+  arg[2](table) = table: 0xf167a2d7a3b3d54b
+[#109] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:13
+  arg[1](buffer) = buffer: 0x49d0ac5747e12066
+  arg[2](table) = table: 0xc0e18cea2b48814e
+[#110] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0x12f368eedd6cb8c2
+  arg[2](table) = table: 0x54222d796a5a6ccd
+[#111] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0xc9a7f46dfa823711
+  arg[2](table) = table: 0x7d62091167e363c6
+[#112] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0x6c9ea92d4ac1a92e
+  arg[2](table) = table: 0xa3c4de20fdbf6a3a
+[#113] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0x4362cf2cc705d184
+  arg[2](table) = table: 0x89ac0f5df416e9e9
+[#114] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0x9f498b57d871c2d3
+  arg[2](table) = table: 0xe5ebfd09af25a1b4
+[#115] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0xbdc557986d62fd41
+  arg[2](table) = table: 0x60b07fdca69dfcb0
+[#116] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0xe06c9c38d921436a
+  arg[2](table) = table: 0x0391accc516a878f
+[#117] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0x8902a7455dfe54c4
+  arg[2](table) = table: 0xfdc4103973cd8460
+[#118] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing | 03:08:14
+  arg[1](buffer) = buffer: 0x18e909fe7834f60c
+  arg[2](table) = table: 0xf31b5f13b95f2689
+[#119] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Projectile.Resolve | 03:08:14
+  arg[1](buffer) = buffer: 0x8bbaa5ff9bc2b048
+  arg[2](table) = table: 0xc1da84c3d7ea2726
+[#120] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0x675b170ec5052b08
+  arg[2](table) = table: 0x4da673ed98a51043
+[#121] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0x0e22888349797163
+  arg[2](table) = table: 0xe38d8324d003b07f
+[#122] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0xe5ffae1dfa97089d
+  arg[2](table) = table: 0x319789d2532f7a51
+[#123] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0xb2dd7396c443feb9
+  arg[2](table) = table: 0xe015c86f07f0f517
+[#124] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0xbd4a9545cae34753
+  arg[2](table) = table: 0xb82d5f5eeee8e46c
+[#125] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0x1def18f34a40745e
+  arg[2](table) = table: 0xbbfb51612aa0b65d
+[#126] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0x37a79a2e10c3930e
+  arg[2](table) = table: 0x7cad3b04eb0751bd
+[#127] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0xec6b0a7d57573b24
+  arg[2](table) = table: 0x42003f4000e55267
+[#128] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:14
+  arg[1](buffer) = buffer: 0xd48c0500a63a9f58
+  arg[2](table) = table: 0xfc4e263e04be4946
+[#129] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:15
+  arg[1](buffer) = buffer: 0x17fb2687ad7f3516
+  arg[2](table) = table: 0x7d44aa3ef73f4e26
+[#130] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:15
+  arg[1](buffer) = buffer: 0x97784e4bada96fb4
+  arg[2](table) = table: 0x9bac2dab78fe7311
+[#131] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:15
+  arg[1](buffer) = buffer: 0xda7d14a3b1265c93
+  arg[2](table) = table: 0xd2f57d9ab9144218
+[#132] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:15
+  arg[1](buffer) = buffer: 0xc52c35bd2e3acdec
+  arg[2](table) = table: 0xf4d5f7a5d39f3abd
+[#133] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:15
+  arg[1](buffer) = buffer: 0xf6af9e3700cf5be2
+  arg[2](table) = table: 0x831b494df087fa53
+[#134] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:15
+  arg[1](buffer) = buffer: 0x4d81ad4d7b1c1497
+  arg[2](table) = table: 0x17dea314d9e2f4c6
+[#135] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:15
+  arg[1](buffer) = buffer: 0x7e359dbb71f7b955
+  arg[2](table) = table: 0xb43c10bc4ddaaa34
+[#136] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:15
+  arg[1](buffer) = buffer: 0xa2debf304f7d3636
+  arg[2](table) = table: 0x4bd1628a66f73fb2
+[#137] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:15
+  arg[1](buffer) = buffer: 0x7e50b27542a012ff
+  arg[2](table) = table: 0x0cade93d84575547
+[#138] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:15
+  arg[1](buffer) = buffer: 0xe7e825ea740b9e2c
+  arg[2](table) = table: 0x3c25ec042f240367
+[#139] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:15
+  arg[1](buffer) = buffer: 0x216131119f5983ca
+  arg[2](table) = table: 0x2b07a9090344b987
+[#140] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:15
+  arg[1](buffer) = buffer: 0x30f3eb66b7db7795
+  arg[2](table) = table: 0x89fd8726f2a2fa3f
+[#141] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:15
+  arg[1](buffer) = buffer: 0xfec21b9028946435
+  arg[2](table) = table: 0xffe1f7cbf8ed4a78
+[#142] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:15
+  arg[1](buffer) = buffer: 0x17ac07217c453256
+  arg[2](table) = table: 0x27abf58702f4622f
+[#143] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:15
+  arg[1](buffer) = buffer: 0x19490dc20b27b38b
+  arg[2](table) = table: 0x9bede0accd321505
+[#144] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:15
+  arg[1](buffer) = buffer: 0x8eb89cf24297d57d
+  arg[2](table) = table: 0x9164e20d51255de9
+[#145] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:15
+  arg[1](buffer) = buffer: 0x28cf5e5e2c7a1370
+  arg[2](table) = table: 0xc4048659fc98b9bd
+[#146] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:15
+  arg[1](buffer) = buffer: 0x38b72a0f3c934d94
+  arg[2](table) = table: 0x8752b6d46c773e40
+[#147] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:15
+  arg[1](buffer) = buffer: 0x655f235cfb379fa4
+  arg[2](table) = table: 0xbae36d28cb1ea2a0
+[#148] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:15
+  arg[1](buffer) = buffer: 0x6441aa1054b357d9
+  arg[2](table) = table: 0xf62ac2d00d84b22a
+[#149] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:15
+  arg[1](buffer) = buffer: 0x17b5bbe3d0c45522
+  arg[2](table) = table: 0x3f9fb89d4aa8b223
+[#150] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:15
+  arg[1](buffer) = buffer: 0x5f0e2fa11b894f03
+  arg[2](table) = table: 0xe7da0b83fb3a47a0
+[#151] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:15
+  arg[1](buffer) = buffer: 0x9395b5a25594fbf6
+  arg[2](table) = table: 0xe7377034062b1b6f
+[#152] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:15
+  arg[1](buffer) = buffer: 0x382a167352f58ab7
+  arg[2](table) = table: 0x796ff707d83f61dd
+[#153] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:15
+  arg[1](buffer) = buffer: 0x54f3f759df15d908
+  arg[2](table) = table: 0xfd3f9f1453e608a6
+[#154] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:15
+  arg[1](buffer) = buffer: 0x58d990a3dd149523
+  arg[2](table) = table: 0x24c73f731973bfb5
+[#155] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:15
+  arg[1](buffer) = buffer: 0xdd946d07e147e56a
+  arg[2](table) = table: 0x7916bf406c0b1cdb
+[#156] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:15
+  arg[1](buffer) = buffer: 0xd944c13bcffafba2
+  arg[2](table) = table: 0x673071fa02ccade7
+[#157] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:16
+  arg[1](buffer) = buffer: 0x6e40500353306c4f
+  arg[2](table) = table: 0x165d753c4ae3156a
+[#158] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:16
+  arg[1](buffer) = buffer: 0xf47e2add685325c4
+  arg[2](table) = table: 0x81e6590ad353707c
+[#159] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:16
+  arg[1](buffer) = buffer: 0xf57a571c5f4d1832
+  arg[2](table) = table: 0x27e759f90e6718b2
+[#160] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:16
+  arg[1](buffer) = buffer: 0xe11b0da0c342c7b6
+  arg[2](table) = table: 0x703f598e19e4c273
+[#161] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:16
+  arg[1](buffer) = buffer: 0x6efdd2b08d0047e2
+  arg[2](table) = table: 0xbc02c32c1b6c06d9
+[#162] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:16
+  arg[1](buffer) = buffer: 0x41d40c401044e855
+  arg[2](table) = table: 0xb34e12305a27eb45
+[#163] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:16
+  arg[1](buffer) = buffer: 0xc567ebac56e050ce
+  arg[2](table) = table: 0x0f992999b6bc3714
+[#164] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:16
+  arg[1](buffer) = buffer: 0xface269d256d5c44
+  arg[2](table) = table: 0xa79e8c801a46ce51
+[#165] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:16
+  arg[1](buffer) = buffer: 0xf83dcba6559df3ba
+  arg[2](table) = table: 0x78d10063422f50f9
+[#166] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:16
+  arg[1](buffer) = buffer: 0xff309162e42ce03b
+  arg[2](table) = table: 0x14123d88a6e5210a
+[#167] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:16
+  arg[1](buffer) = buffer: 0x04868f360637766d
+  arg[2](table) = table: 0x434468790dedee4a
+[#168] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:16
+  arg[1](buffer) = buffer: 0x8ea176b88ee170d4
+  arg[2](table) = table: 0x22cbd3e4d01d6b05
+[#169] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:16
+  arg[1](buffer) = buffer: 0x4d0f8d47a71b5939
+  arg[2](table) = table: 0x4e452b7ebebd7bdf
+[#170] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:16
+  arg[1](buffer) = buffer: 0xb8fe9acb7732d2b1
+  arg[2](table) = table: 0x09d30cb0bd0b3717
+[#171] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Player.BlankRequest | 03:08:16
+  arg[1](buffer) = buffer: 0x99576fb33119c597
+  arg[2](table) = table: 0x22c65e2c398ae9bf
+[#172] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:16
+  arg[1](buffer) = buffer: 0xd34a60cd646df0ee
+  arg[2](table) = table: 0x34784c6c83afc185
+[#173] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0x94e8be61e78a45f7
+  arg[2](table) = table: 0x8577e6f8fbd30858
+[#174] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0x65dbb78f1165d7eb
+  arg[2](table) = table: 0x88ad205038eb4270
+[#175] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0x01c892fbaa9bfac5
+  arg[2](table) = table: 0xd68e6b53ec4c653d
+[#176] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0x01726ef8fdeaa408
+  arg[2](table) = table: 0x0e6bcbe76c042bfe
+[#177] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0xf8285fd065eb8ffc
+  arg[2](table) = table: 0x49058c5a88adc611
+[#178] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing | 03:08:17
+  arg[1](buffer) = buffer: 0x5246808f33b8b4f6
+  arg[2](table) = table: 0xeaddd65907882a1d
+[#179] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0x74552473381a1ae7
+  arg[2](table) = table: 0xcbd3b3a2aa02fc83
+[#180] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0xff3754209b49ae22
+  arg[2](table) = table: 0xca3bb4a26e1022f6
+[#181] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0x5d74950fd2de2ee3
+  arg[2](table) = table: 0x52bf0bef5c2448b0
+[#182] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0x3513fb1de9b74429
+  arg[2](table) = table: 0xc1c14ef4b0224562
+[#183] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0xa41f83da2e104800
+  arg[2](table) = table: 0xdfe12b2e400d9001
+[#184] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing | 03:08:17
+  arg[1](buffer) = buffer: 0x9c27cc14d415a5f3
+  arg[2](table) = table: 0xd195ab5b2d49cc6f
+[#185] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0xfccb6bbdf55ae21a
+  arg[2](table) = table: 0x80a9dea78fbd15ed
+[#186] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0x2720f1f0dc744a77
+  arg[2](table) = table: 0x9d9a32cb4103c844
+[#187] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0x052b2e345de23520
+  arg[2](table) = table: 0xb00d2dbcade42b97
+[#188] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0x9be3f9099c879a5b
+  arg[2](table) = table: 0xf4b7b70822710203
+[#189] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0x338314475e4186d1
+  arg[2](table) = table: 0x3a4e5b7d2633e67a
+[#190] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0xfe5d060a5d1bbca7
+  arg[2](table) = table: 0xa76c33e57bdc9a78
+[#191] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0xe62e616de6f4e2c9
+  arg[2](table) = table: 0x0b397bf2ea56fdd4
+[#192] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0x2457899631d8e7bd
+  arg[2](table) = table: 0x2dadf4ec5c2260aa
+[#193] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:17
+  arg[1](buffer) = buffer: 0xbcc267c371f0165a
+  arg[2](table) = table: 0xde9de9751b002a32
+[#194] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:18
+  arg[1](buffer) = buffer: 0x03815e5d481ed5da
+  arg[2](table) = table: 0x06ef75f14949ff22
+[#195] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:18
+  arg[1](buffer) = buffer: 0xfb4e6efaa8ce1fc7
+  arg[2](table) = table: 0x71fac0f9bd58b172
+[#196] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:18
+  arg[1](buffer) = buffer: 0xfb00f06d108a7495
+  arg[2](table) = table: 0x68b51b4c76a1d821
+[#197] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:18
+  arg[1](buffer) = buffer: 0xd268cb67c23f07a7
+  arg[2](table) = table: 0xc22505688bc0b938
+[#198] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:18
+  arg[1](buffer) = buffer: 0xdc6d3e5ed3199abc
+  arg[2](table) = table: 0xfac431ff61150ac6
+[#199] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:18
+  arg[1](buffer) = buffer: 0x45ed02a0ddd46a40
+  arg[2](table) = table: 0x93be94fe24582dc6
+[#200] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:18
+  arg[1](buffer) = buffer: 0xbc23bf74f221aecc
+  arg[2](table) = table: 0x9c277df20f38d32e
+[#201] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:18
+  arg[1](buffer) = buffer: 0x783ac0b2396e9262
+  arg[2](table) = table: 0x2bf072fefb193340
+[#202] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:18
+  arg[1](buffer) = buffer: 0xe1db99d478f8cca5
+  arg[2](table) = table: 0xdad936d610d056d6
+[#203] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:18
+  arg[1](buffer) = buffer: 0xe82be98902d9d16f
+  arg[2](table) = table: 0xdce5126f87c84c92
+[#204] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:18
+  arg[1](buffer) = buffer: 0x333955825bf3e2b1
+  arg[2](table) = table: 0x9876a6ac495146ce
+[#205] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:18
+  arg[1](buffer) = buffer: 0xe17ec61bfd01830b
+  arg[2](table) = table: 0x2dc8aa9c296046c8
+[#206] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing | 03:08:19
+  arg[1](buffer) = buffer: 0x51361426126906ee
+  arg[2](table) = table: 0xb388d50366721c88
+[#207] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:19
+  arg[1](buffer) = buffer: 0xe142de91dbcccbe9
+  arg[2](table) = table: 0x88db9def8f97de01
+[#208] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:19
+  arg[1](buffer) = buffer: 0x32be8f5b902c06f2
+  arg[2](table) = table: 0x118a610837a9980c
+[#209] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:19
+  arg[1](buffer) = buffer: 0xf92b919f8fc90040
+  arg[2](table) = table: 0x1f85e0220a8fa979
+[#210] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:19
+  arg[1](buffer) = buffer: 0x670a49295d800eb2
+  arg[2](table) = table: 0x4bea39cf21e9dbe8
+[#211] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:19
+  arg[1](buffer) = buffer: 0x62493637cccbd441
+  arg[2](table) = table: 0x9ae4f36fcb85abfe
+[#212] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:19
+  arg[1](buffer) = buffer: 0x9b931f339ca38f2a
+  arg[2](table) = table: 0x50e994826570eaac
+[#213] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:19
+  arg[1](buffer) = buffer: 0xa80ca4d6512de918
+  arg[2](table) = table: 0xc36b0ef64ed0c46f
+[#214] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:19
+  arg[1](buffer) = buffer: 0xcf2641baac061c3f
+  arg[2](table) = table: 0x4136f2d88bbd96b4
+[#215] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:19
+  arg[1](buffer) = buffer: 0x552a024f454b57ee
+  arg[2](table) = table: 0x553cb6a626d0a3e7
+[#216] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:19
+  arg[1](buffer) = buffer: 0xa21ffe69e870df53
+  arg[2](table) = table: 0x1bb1ccff8051fe4e
+[#217] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0x45f52322a0db9a5b
+  arg[2](table) = table: 0x2b83c4019ec3b8b4
+[#218] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0x971509e69ec5808b
+  arg[2](table) = table: 0xa971f7e1c8eaa610
+[#219] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:20
+  arg[1](buffer) = buffer: 0x7a3ee8bbc40bc72e
+  arg[2](table) = table: 0xd029f0908791c740
+[#220] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:20
+  arg[1](buffer) = buffer: 0xe690828974c53bd1
+  arg[2](table) = table: 0x3f8a6ca67f1eeabb
+[#221] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:20
+  arg[1](buffer) = buffer: 0xda52bea0d9a65881
+  arg[2](table) = table: 0x80ba51b436e3087f
+[#222] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0x5616935ae1093975
+  arg[2](table) = table: 0x4af68c7ecc2184d1
+[#223] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0x8968800fa54382bd
+  arg[2](table) = table: 0x1e02eeea5876f012
+[#224] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0xf8462a88ceb73aba
+  arg[2](table) = table: 0xf2769ed55ddb9826
+[#225] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing | 03:08:20
+  arg[1](buffer) = buffer: 0x0c1ba24fce466340
+  arg[2](table) = table: 0xbaab26f5718c1e8b
+[#226] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0xf535505d0b36a4f9
+  arg[2](table) = table: 0xf9ce0c6e38ddf374
+[#227] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0xabb8b5514c46fc04
+  arg[2](table) = table: 0x8c62e4825a0e5d8f
+[#228] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0x608a35a74b9e8013
+  arg[2](table) = table: 0x03f34e8abd7860bc
+[#229] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0x1002e2c0844199bb
+  arg[2](table) = table: 0x9348f27af44ad060
+[#230] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0x423a8f7455249237
+  arg[2](table) = table: 0x6582372d39dc3643
+[#231] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:20
+  arg[1](buffer) = buffer: 0x0ab1eed4f0eef83a
+  arg[2](table) = table: 0x688477852428a06c
+[#232] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:20
+  arg[1](buffer) = buffer: 0xf45ec8aa154eb080
+  arg[2](table) = table: 0x874f85a00c5be4c3
+[#233] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:20
+  arg[1](buffer) = buffer: 0x827561e60a473ade
+  arg[2](table) = table: 0x44caa926ae202717
+[#234] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:20
+  arg[1](buffer) = buffer: 0xae107728dc2ee1b7
+  arg[2](table) = table: 0x1b673c122c6935f0
+[#235] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:20
+  arg[1](buffer) = buffer: 0x1adee141caa4a4ac
+  arg[2](table) = table: 0xdef3659bdde61ae1
+[#236] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:20
+  arg[1](buffer) = buffer: 0x1946d7ad87752197
+  arg[2](table) = table: 0xdb43220c11552e7c
+[#237] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:20
+  arg[1](buffer) = buffer: 0x39ed48aadbd244de
+  arg[2](table) = table: 0x26372fe1d56730b2
+[#238] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:20
+  arg[1](buffer) = buffer: 0x5d67c11d33853f74
+  arg[2](table) = table: 0xcc637fee09011daf
+[#239] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:20
+  arg[1](buffer) = buffer: 0xb0ab05ecae134f98
+  arg[2](table) = table: 0x67a30a623041f3af
+[#240] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0x051b4bb957072609
+  arg[2](table) = table: 0x9fe2374fa5c0bfd6
+[#241] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0xb4d70e5a016f8b71
+  arg[2](table) = table: 0xbd747cfc923faa14
+[#242] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Inventory.SpectatedPlayerInventory | 03:08:20
+  arg[1](buffer) = buffer: 0x43e859587bd0b847
+  arg[2](table) = table: 0xddb4847f31611594
+[#243] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:20
+  arg[1](buffer) = buffer: 0xb4a6347058192d92
+  arg[2](table) = table: 0x314f3049d3fdc304
+[#244] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:20
+  arg[1](buffer) = buffer: 0x5d5ae7d758e058d7
+  arg[2](table) = table: 0xd57b4eeaa8d0a08b
+[#245] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:20
+  arg[1](buffer) = buffer: 0xd8d78bcf8da8ed75
+  arg[2](table) = table: 0xd418eb8d59a4f06b
+[#246] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:20
+  arg[1](buffer) = buffer: 0xdf06e7fdf04fbbff
+  arg[2](table) = table: 0xadd3a348f53966ad
+[#247] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:20
+  arg[1](buffer) = buffer: 0xd25c71894d600319
+  arg[2](table) = table: 0xc83781b7f11ef8cb
+[#248] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:20
+  arg[1](buffer) = buffer: 0xf46b3f18753dc090
+  arg[2](table) = table: 0x0c06aad13b4ed493
+[#249] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:20
+  arg[1](buffer) = buffer: 0x66fde5070560ac51
+  arg[2](table) = table: 0x3439b8fab509c3ed
+[#250] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:20
+  arg[1](buffer) = buffer: 0x0c80ed3d6ed873b0
+  arg[2](table) = table: 0x7be77a97d3af926e
+[#251] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:20
+  arg[1](buffer) = buffer: 0x1da38d4aea31a7fa
+  arg[2](table) = table: 0x430465d0abf4dfdf
+[#252] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0x6b00e45abfdf38e6
+  arg[2](table) = table: 0x0325702539d3e583
+[#253] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0xbd4a36de0be25b5d
+  arg[2](table) = table: 0x5af207ce1fd13a92
+[#254] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0x87cebdd523657757
+  arg[2](table) = table: 0xd156c247a959ea8b
+[#255] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0x970e948c897c108c
+  arg[2](table) = table: 0x051ecd7d3cff9367
+[#256] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:20
+  arg[1](buffer) = buffer: 0xcd588f83f5f3a68e
+  arg[2](table) = table: 0xa99113557dd35137
+[#257] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:21
+  arg[1](buffer) = buffer: 0x3424631f20bf6b41
+  arg[2](table) = table: 0xa2ae7f5bfd08e60f
+[#258] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:21
+  arg[1](buffer) = buffer: 0x0a42c7779a9d5113
+  arg[2](table) = table: 0xdb6431eeeb5cccb1
+[#259] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:21
+  arg[1](buffer) = buffer: 0xe18ba8fcbc4d856e
+  arg[2](table) = table: 0xed6a69db0b9e43a8
+[#260] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:21
+  arg[1](buffer) = buffer: 0x473c4cd07e441c1f
+  arg[2](table) = table: 0xe17351e952f4fe36
+[#261] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:21
+  arg[1](buffer) = buffer: 0xc264e3a4a044b34f
+  arg[2](table) = table: 0xbaeeaa8f7d653890
+[#262] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:21
+  arg[1](buffer) = buffer: 0x8ddf8fd1c1788866
+  arg[2](table) = table: 0x770a8b8bb25ab0d4
+[#263] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:21
+  arg[1](buffer) = buffer: 0x42019f2e2ea0ce7c
+  arg[2](table) = table: 0xb10e26a553831e89
+[#264] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:21
+  arg[1](buffer) = buffer: 0x9659771e2674cf42
+  arg[2](table) = table: 0xea1f998a2440cc79
+[#265] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:21
+  arg[1](buffer) = buffer: 0xed5eda65a9c7aad5
+  arg[2](table) = table: 0xd727251f0b14653f
+[#266] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0xd083648968698279
+  arg[2](table) = table: 0xe25e0966d159f838
+[#267] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0xe96b06ce9a0fd401
+  arg[2](table) = table: 0xc02a7e2270d40a21
+[#268] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Inventory.SpectatedPlayerInventory | 03:08:21
+  arg[1](buffer) = buffer: 0xb20ba95446bf9553
+  arg[2](table) = table: 0xb472bfc30f793bf1
+[#269] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:21
+  arg[1](buffer) = buffer: 0xda1f265666d027e6
+  arg[2](table) = table: 0xc7cf25e7998ae508
+[#270] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:21
+  arg[1](buffer) = buffer: 0xd4e43d6347b824fa
+  arg[2](table) = table: 0xab35118af1d89d07
+[#271] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:21
+  arg[1](buffer) = buffer: 0xaf7fbb236ba47965
+  arg[2](table) = table: 0x1df6439b2ecab2e6
+[#272] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:21
+  arg[1](buffer) = buffer: 0xa2c49b3399c8721f
+  arg[2](table) = table: 0xda2ded64d5ea2ee9
+[#273] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:21
+  arg[1](buffer) = buffer: 0x7cf4dd70158a18e3
+  arg[2](table) = table: 0x86f3ee444eab1783
+[#274] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0x3074dda1b566ece1
+  arg[2](table) = table: 0xa55230cac51dc71d
+[#275] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0x9ffa6737ee68f634
+  arg[2](table) = table: 0xc89d83eb213bb576
+[#276] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0x52ff67569797b73a
+  arg[2](table) = table: 0x81b0cb053d827c85
+[#277] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0xe549979194f8746b
+  arg[2](table) = table: 0x08f4fa771a5d9288
+[#278] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:21
+  arg[1](buffer) = buffer: 0xd582d6fe7582da37
+  arg[2](table) = table: 0x4d4060da1153e655
+[#279] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:21
+  arg[1](buffer) = buffer: 0x81f259d9094cf60f
+  arg[2](table) = table: 0x7b0237b8d640be31
+[#280] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:21
+  arg[1](buffer) = buffer: 0x18183c40a882d0c7
+  arg[2](table) = table: 0xe4f07f47199a6014
+[#281] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:21
+  arg[1](buffer) = buffer: 0xcff5f7b86aaf3bce
+  arg[2](table) = table: 0x6afeda99da8e0a62
+[#282] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:21
+  arg[1](buffer) = buffer: 0xff9610f4c9fd2c57
+  arg[2](table) = table: 0xdaeb4aa5e92f6b33
+[#283] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:21
+  arg[1](buffer) = buffer: 0xf40995a63c95c6f6
+  arg[2](table) = table: 0x3563107a0bd405db
+[#284] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:21
+  arg[1](buffer) = buffer: 0xf45f1a3efb22e48b
+  arg[2](table) = table: 0xd6920bb08155b2d1
+[#285] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:21
+  arg[1](buffer) = buffer: 0x279a1eb78bc5ac61
+  arg[2](table) = table: 0x3349cec2a8959328
+[#286] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:21
+  arg[1](buffer) = buffer: 0x422b96b27dcc4c29
+  arg[2](table) = table: 0x10d551a71b32e343
+[#287] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0x930cfc4b948e5077
+  arg[2](table) = table: 0x3eb5d362310d7d0b
+[#288] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0xb644c716c83c90be
+  arg[2](table) = table: 0x0beed93fc76b5f99
+[#289] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0x15fd542971fe9a6b
+  arg[2](table) = table: 0xb461289f02babb07
+[#290] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0x1d3285dbf41ea52a
+  arg[2](table) = table: 0xcc27682afd5f91fa
+[#291] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:21
+  arg[1](buffer) = buffer: 0xaddf2a85ab88809f
+  arg[2](table) = table: 0xbfc54860f2de9579
+[#292] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:21
+  arg[1](buffer) = buffer: 0x6d1ee67990ac4895
+  arg[2](table) = table: 0xdc94ded563e3c758
+[#293] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:21
+  arg[1](buffer) = buffer: 0xa0985e485bb1e968
+  arg[2](table) = table: 0x4a52cdefdd11d933
+[#294] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:21
+  arg[1](buffer) = buffer: 0xb9058b451242ae32
+  arg[2](table) = table: 0x1787c2e78c7c837b
+[#295] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:21
+  arg[1](buffer) = buffer: 0x45458ee8d3ccdbf6
+  arg[2](table) = table: 0x35a72d2ff01bbd69
+[#296] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0x457d2915b0154a7f
+  arg[2](table) = table: 0xee1690b0db54dbe6
+[#297] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0x67a2cc1850fff919
+  arg[2](table) = table: 0xc790b784188456d2
+[#298] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Player.BlankRequest | 03:08:21
+  arg[1](buffer) = buffer: 0xc277caaa7c1af07f
+  arg[2](table) = table: 0x75ae712ecfae8197
+[#299] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0x36b57a9988bf7f6e
+  arg[2](table) = table: 0xe3830ae4883bcc18
+[#300] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0x1b407dce35290a93
+  arg[2](table) = table: 0xe2c6f36750fd2a20
+[#301] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0x3b46e529cffcbd55
+  arg[2](table) = table: 0xa280c1708b33382e
+[#302] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:21
+  arg[1](buffer) = buffer: 0x2f7a0e05607e32b4
+  arg[2](table) = table: 0x0767b812938872cd
+[#303] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:21
+  arg[1](buffer) = buffer: 0x5d2a2b52ae7e6f66
+  arg[2](table) = table: 0x56fc9646223edc51
+[#304] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:21
+  arg[1](buffer) = buffer: 0x8d9369c962b79eec
+  arg[2](table) = table: 0x08da8b5791c9971f
+[#305] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:21
+  arg[1](buffer) = buffer: 0xc20230b40005fd60
+  arg[2](table) = table: 0x077fd1eb1fcefc85
+[#306] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:21
+  arg[1](buffer) = buffer: 0xdf5055f90a1d6ae7
+  arg[2](table) = table: 0xdd0d1b0f7e6ca46b
+[#307] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:21
+  arg[1](buffer) = buffer: 0x36661f23ad5e50a9
+  arg[2](table) = table: 0x9f1829aa1dc5dcf1
+[#308] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0x14fd22356f3aa6bb
+  arg[2](table) = table: 0x2aaa369d341560fb
+[#309] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0x3b3bdcfe265395bb
+  arg[2](table) = table: 0x11d9f9c55b866974
+[#310] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:22
+  arg[1](buffer) = buffer: 0xf0b8f57be7afc761
+  arg[2](table) = table: 0x5e77b8bf1054f4f2
+[#311] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:22
+  arg[1](buffer) = buffer: 0x37240ee517216e58
+  arg[2](table) = table: 0x697a42e73637e60f
+[#312] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:22
+  arg[1](buffer) = buffer: 0xb6505c9f06083f0b
+  arg[2](table) = table: 0x15d819d336ee9058
+[#313] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:22
+  arg[1](buffer) = buffer: 0x8eef6c99776b6b2a
+  arg[2](table) = table: 0x48ea43384108c684
+[#314] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:22
+  arg[1](buffer) = buffer: 0xe7c9787b2437f781
+  arg[2](table) = table: 0x013607f38633d6bd
+[#315] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:22
+  arg[1](buffer) = buffer: 0x1593e844e1a992a2
+  arg[2](table) = table: 0x8ff89e027f1b45ee
+[#316] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:22
+  arg[1](buffer) = buffer: 0xc50fefd783ea261d
+  arg[2](table) = table: 0x7f2687848b331078
+[#317] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0x11630ce3b59c1e14
+  arg[2](table) = table: 0x6b760b647b28465a
+[#318] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:22
+  arg[1](buffer) = buffer: 0x1c5ffb19edcea493
+  arg[2](table) = table: 0x06fccc76b8369281
+[#319] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:22
+  arg[1](buffer) = buffer: 0xecf49588453c720b
+  arg[2](table) = table: 0x47de7f4feac85f52
+[#320] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:22
+  arg[1](buffer) = buffer: 0xd0e66bb593bb405d
+  arg[2](table) = table: 0x0d9f4d69c0df14cc
+[#321] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:22
+  arg[1](buffer) = buffer: 0x07cace556bef2146
+  arg[2](table) = table: 0xafe64b115c9c2cd5
+[#322] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:22
+  arg[1](buffer) = buffer: 0x68b9feefa52e3435
+  arg[2](table) = table: 0x5af739022d0d9c53
+[#323] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0x238072270712d2f7
+  arg[2](table) = table: 0xe395ef7c8b42b157
+[#324] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0x10b50de5f61918c6
+  arg[2](table) = table: 0xc3a49d77f44f6dea
+[#325] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0x3f2b8c2b14039e4d
+  arg[2](table) = table: 0x282209db63d69df7
+[#326] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing | 03:08:22
+  arg[1](buffer) = buffer: 0xb028e868a7458fce
+  arg[2](table) = table: 0xe3adc9c031d42469
+[#327] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:22
+  arg[1](buffer) = buffer: 0xe2ded4f87c05a115
+  arg[2](table) = table: 0xf3908041293ce07b
+[#328] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:22
+  arg[1](buffer) = buffer: 0x4e10ce555db711a4
+  arg[2](table) = table: 0xb88dc7fae673ac12
+[#329] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:22
+  arg[1](buffer) = buffer: 0xe3095846ec783bb2
+  arg[2](table) = table: 0xea0b20c5fcea5fda
+[#330] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:22
+  arg[1](buffer) = buffer: 0x9e9b67eb42ceb464
+  arg[2](table) = table: 0x5b9939aee0000355
+[#331] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:22
+  arg[1](buffer) = buffer: 0xc9b8f15570f6a16f
+  arg[2](table) = table: 0x67ebdf52d1fd5766
+[#332] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:22
+  arg[1](buffer) = buffer: 0xc5ed16858710cec6
+  arg[2](table) = table: 0xa110e383166d9a1c
+[#333] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:22
+  arg[1](buffer) = buffer: 0xc11ce73ca3e9e511
+  arg[2](table) = table: 0xcd447efa0b35864b
+[#334] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0x6d7b53cb14f2883d
+  arg[2](table) = table: 0x2230588210e09ad3
+[#335] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:22
+  arg[1](buffer) = buffer: 0x9a3668790de9260a
+  arg[2](table) = table: 0xcd65588dfe28eff9
+[#336] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:22
+  arg[1](buffer) = buffer: 0x272d4cd932d35db8
+  arg[2](table) = table: 0x720f3213d2dfc785
+[#337] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:22
+  arg[1](buffer) = buffer: 0x803e51f8d36ad0ee
+  arg[2](table) = table: 0x08f6c3842852eada
+[#338] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:22
+  arg[1](buffer) = buffer: 0xa1742b2785bae0d6
+  arg[2](table) = table: 0x441f251d9bffa507
+[#339] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:22
+  arg[1](buffer) = buffer: 0x43c42d8e5f47c930
+  arg[2](table) = table: 0x36070206062710bb
+[#340] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.PlayerData.PlayerDataChanged | 03:08:22
+  arg[1](buffer) = buffer: 0x257e2759f8f4ba26
+  arg[2](table) = table: 0x23ddde785591915f
+[#341] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:22
+  arg[1](buffer) = buffer: 0x5c9cb4f423635640
+  arg[2](table) = table: 0xe5f03f87601f3abd
+[#342] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:22
+  arg[1](buffer) = buffer: 0xd9c1d811d1088523
+  arg[2](table) = table: 0xf290121f52071cfa
+[#343] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:22
+  arg[1](buffer) = buffer: 0x1739b7fb724f1e67
+  arg[2](table) = table: 0x824d604aca07b5aa
+[#344] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0xf1ef83f4f55f54b9
+  arg[2](table) = table: 0x54a6e0ffd71a337b
+[#345] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0x3a40c02dd12fa204
+  arg[2](table) = table: 0x9f5eea634552e103
+[#346] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0x27947627e704108c
+  arg[2](table) = table: 0x8fce759742e4fc84
+[#347] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0xaa6293b29f04b826
+  arg[2](table) = table: 0x1a1bfe479e0e90ed
+[#348] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0x9a1bf4fd352f13e2
+  arg[2](table) = table: 0x56e1157335566805
+[#349] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:22
+  arg[1](buffer) = buffer: 0xd32ec3586072323f
+  arg[2](table) = table: 0xfd91c838a6df8c85
+[#350] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:22
+  arg[1](buffer) = buffer: 0x869de42de0de3a1c
+  arg[2](table) = table: 0x4e81e1c5266ddf0d
+[#351] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:22
+  arg[1](buffer) = buffer: 0xdea30744b39ac544
+  arg[2](table) = table: 0xf5784f23ae14ab7d
+[#352] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:22
+  arg[1](buffer) = buffer: 0xd7f76b79fa98b9b0
+  arg[2](table) = table: 0x2fb865b7123a59c0
+[#353] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:22
+  arg[1](buffer) = buffer: 0x4367a1fc19e8592f
+  arg[2](table) = table: 0x2b54750a05aa9123
+[#354] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0xc0376503f87ff0bf
+  arg[2](table) = table: 0x8959ebb28165307b
+[#355] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0xf2b3806c33fe6633
+  arg[2](table) = table: 0xf73c3aab549913d4
+[#356] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:22
+  arg[1](buffer) = buffer: 0x141c044a3fdebe6c
+  arg[2](table) = table: 0x39c030d6c2ceeafc
+[#357] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:22
+  arg[1](buffer) = buffer: 0x04d378492b14d6b5
+  arg[2](table) = table: 0x4a5e79a9f45d23ce
+[#358] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:22
+  arg[1](buffer) = buffer: 0x34c2ada74ba9b8d5
+  arg[2](table) = table: 0x4dee4ee7ff1b089c
+[#359] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0x2746a8d249c59763
+  arg[2](table) = table: 0xb934ccc10540522f
+[#360] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0x02bd828f66c2146a
+  arg[2](table) = table: 0xc9cc7aa01fc29ee0
+[#361] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0xf4c6f27d297817f6
+  arg[2](table) = table: 0xfbae6d769e0245da
+[#362] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0xa3706755ae3660b3
+  arg[2](table) = table: 0xa4a98bb9bd102cc2
+[#363] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:22
+  arg[1](buffer) = buffer: 0xa9a60a1b20575bc5
+  arg[2](table) = table: 0xa1cae2ac8b28db3e
+[#364] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:23
+  arg[1](buffer) = buffer: 0x08f1e608f18b4212
+  arg[2](table) = table: 0xee176bee7b83aebc
+[#365] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:23
+  arg[1](buffer) = buffer: 0x24e6f0375613c938
+  arg[2](table) = table: 0x4a20e83dcd4103fd
+[#366] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:23
+  arg[1](buffer) = buffer: 0x0a7ea0e8d7a13c39
+  arg[2](table) = table: 0xd02fbc03fb5dad05
+[#367] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:23
+  arg[1](buffer) = buffer: 0xd760935924897b92
+  arg[2](table) = table: 0x7562e2956b3a9c65
+[#368] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:23
+  arg[1](buffer) = buffer: 0x1e20582feaba651f
+  arg[2](table) = table: 0x4c010fa1fc71edf0
+[#369] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:23
+  arg[1](buffer) = buffer: 0xadda8788f143951c
+  arg[2](table) = table: 0x70c3f55107875129
+[#370] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:23
+  arg[1](buffer) = buffer: 0x377b18a13ed5cd7c
+  arg[2](table) = table: 0x6c6057b5123132d0
+[#371] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:23
+  arg[1](buffer) = buffer: 0x763af9439fbe6d3e
+  arg[2](table) = table: 0x7513878a2c51f5ef
+[#372] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:23
+  arg[1](buffer) = buffer: 0xc649bb89bcc0c50a
+  arg[2](table) = table: 0x7748a8a272840f5e
+[#373] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:23
+  arg[1](buffer) = buffer: 0x7933694a2917edf8
+  arg[2](table) = table: 0xcd7bd29c288d06bf
+[#374] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:23
+  arg[1](buffer) = buffer: 0x033c83ebc13156e7
+  arg[2](table) = table: 0x453d7078a5fbda37
+[#375] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:23
+  arg[1](buffer) = buffer: 0x89157c5f3aa4dcd4
+  arg[2](table) = table: 0xaaa36608b278bfae
+[#376] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:23
+  arg[1](buffer) = buffer: 0x454cfeaeae49c4ae
+  arg[2](table) = table: 0x214604ca4826d310
+[#377] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:23
+  arg[1](buffer) = buffer: 0x1560c2cf89e53235
+  arg[2](table) = table: 0x7777a3890bc453a4
+[#378] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:23
+  arg[1](buffer) = buffer: 0xd6386d2a9a74b131
+  arg[2](table) = table: 0xd164d1f19bd3d681
+[#379] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:23
+  arg[1](buffer) = buffer: 0xaf9ebd78964f7a51
+  arg[2](table) = table: 0x3ba585d8059cea08
+[#380] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:23
+  arg[1](buffer) = buffer: 0x09ba2eff0144076f
+  arg[2](table) = table: 0x69d5a6b1633d592a
+[#381] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:23
+  arg[1](buffer) = buffer: 0x6842de6cb2223d30
+  arg[2](table) = table: 0xe9f91b04d8abbf2e
+[#382] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Inventory.SpectatedPlayerInventory | 03:08:23
+  arg[1](buffer) = buffer: 0x420ab9b0f1109328
+  arg[2](table) = table: 0xc6f2b01a6325ce52
+[#383] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:23
+  arg[1](buffer) = buffer: 0x1c8e6e5c499707d6
+  arg[2](table) = table: 0x2a8ba011975104ed
+[#384] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:23
+  arg[1](buffer) = buffer: 0x6b0ebc071d0dc907
+  arg[2](table) = table: 0x0ed8cddde5128fa7
+[#385] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:24
+  arg[1](buffer) = buffer: 0x6d1e8c0baaa11ce3
+  arg[2](table) = table: 0x5e5eddec0e3c27ea
+[#386] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:24
+  arg[1](buffer) = buffer: 0xf319d9b304bdd1e1
+  arg[2](table) = table: 0x8328297f8bb28b3a
+[#387] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:24
+  arg[1](buffer) = buffer: 0x46247913a7f2ce88
+  arg[2](table) = table: 0x9c756c73dcdba69f
+[#388] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:24
+  arg[1](buffer) = buffer: 0xe0a5cac494d4dcfe
+  arg[2](table) = table: 0xd72830789f8fd678
+[#389] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:24
+  arg[1](buffer) = buffer: 0x512433a3304138e0
+  arg[2](table) = table: 0x529e3699e32e212a
+[#390] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:24
+  arg[1](buffer) = buffer: 0x96dd6074f1e480a0
+  arg[2](table) = table: 0x9488c6382d63c258
+[#391] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:24
+  arg[1](buffer) = buffer: 0x65a92305b1223b68
+  arg[2](table) = table: 0x76883bdc158d56a2
+[#392] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:24
+  arg[1](buffer) = buffer: 0x566b30297909ac51
+  arg[2](table) = table: 0x17cbbed0198eecf7
+[#393] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:24
+  arg[1](buffer) = buffer: 0xba3121eebdb6a6dc
+  arg[2](table) = table: 0x7bdbc60af2f6dad6
+[#394] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:24
+  arg[1](buffer) = buffer: 0xe63da5e5afb14074
+  arg[2](table) = table: 0xebd0c1b4b74cd2a3
+[#395] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:24
+  arg[1](buffer) = buffer: 0x241f5dd2b67304e3
+  arg[2](table) = table: 0x4032fe192feb462f
+[#396] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:25
+  arg[1](buffer) = buffer: 0xc73387290dc7aaa3
+  arg[2](table) = table: 0x13a286c73cb795d6
+[#397] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:25
+  arg[1](buffer) = buffer: 0xdb4031f8873291f8
+  arg[2](table) = table: 0x72c6655ccb75d57e
+[#398] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:25
+  arg[1](buffer) = buffer: 0xee978c2f992df567
+  arg[2](table) = table: 0x46f449846c85e19b
+[#399] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:25
+  arg[1](buffer) = buffer: 0x89a9ad7d95ac4f2f
+  arg[2](table) = table: 0x78f84c30209baab6
+[#400] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:25
+  arg[1](buffer) = buffer: 0xf29696a658a5df30
+  arg[2](table) = table: 0x4256c35c0493b230
+[#401] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:25
+  arg[1](buffer) = buffer: 0x51d97502fac11ed1
+  arg[2](table) = table: 0xebc0c8e1fd314aa7
+[#402] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:25
+  arg[1](buffer) = buffer: 0xe420c83b2408e9bf
+  arg[2](table) = table: 0x31a256e4b5715025
+[#403] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:25
+  arg[1](buffer) = buffer: 0xe3f12c35b5ea5e35
+  arg[2](table) = table: 0xbed6cb84f325fd85
+[#404] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:25
+  arg[1](buffer) = buffer: 0x18923915d5bf7a87
+  arg[2](table) = table: 0x115b83adc9bda6ad
+[#405] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:25
+  arg[1](buffer) = buffer: 0x9083f6c786107fee
+  arg[2](table) = table: 0x891d0a43a366c025
+[#406] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:25
+  arg[1](buffer) = buffer: 0x9b1922f2987f55db
+  arg[2](table) = table: 0xeb74a5a7200f7ffd
+[#407] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:25
+  arg[1](buffer) = buffer: 0xcf6a38f6fbe7cec0
+  arg[2](table) = table: 0x805f86f31fefd194
+[#408] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing | 03:08:25
+  arg[1](buffer) = buffer: 0x5256859b2278d2b9
+  arg[2](table) = table: 0x8a4d0b8051fbc296
+[#409] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:25
+  arg[1](buffer) = buffer: 0x053d66997b57720c
+  arg[2](table) = table: 0x9c7a0fc5a3b2bcdd
+[#410] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:25
+  arg[1](buffer) = buffer: 0xa693338b30ef254b
+  arg[2](table) = table: 0xfe6dc87a1d37c00c
+[#411] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:25
+  arg[1](buffer) = buffer: 0x5b6331aa9b45e88b
+  arg[2](table) = table: 0xdc5c5a10452d7ac9
+[#412] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:25
+  arg[1](buffer) = buffer: 0x45b0c346c4c5b0a2
+  arg[2](table) = table: 0xb0cd23d09ae18c9c
+[#413] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:25
+  arg[1](buffer) = buffer: 0x7139a9233409217f
+  arg[2](table) = table: 0x3ef3b42415e7889d
+[#414] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:25
+  arg[1](buffer) = buffer: 0xa5334126113bf533
+  arg[2](table) = table: 0x9a5f08354576789a
+[#415] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:25
+  arg[1](buffer) = buffer: 0x4c90c69c1844f907
+  arg[2](table) = table: 0x454fa9508aca62d9
+[#416] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:25
+  arg[1](buffer) = buffer: 0x31ef9df2022791a4
+  arg[2](table) = table: 0xd2010fe64b5640cc
+[#417] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:25
+  arg[1](buffer) = buffer: 0x1de3744091487128
+  arg[2](table) = table: 0xfc50974edaa3267c
+[#418] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:25
+  arg[1](buffer) = buffer: 0x106ac1b9ab942351
+  arg[2](table) = table: 0x08448b77bfff169e
+[#419] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:25
+  arg[1](buffer) = buffer: 0xdb65d86c6b54a0ec
+  arg[2](table) = table: 0xc274045f01f56f4a
+[#420] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:25
+  arg[1](buffer) = buffer: 0x2c6caec262f1b931
+  arg[2](table) = table: 0xff8a449872c0e5c6
+[#421] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:25
+  arg[1](buffer) = buffer: 0xf30ba0ee31c44e89
+  arg[2](table) = table: 0xeb2314e9d2b2aafd
+[#422] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:26
+  arg[1](buffer) = buffer: 0xc9dbbaa783e9cf16
+  arg[2](table) = table: 0x0c7a2612d61d5e13
+[#423] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:26
+  arg[1](buffer) = buffer: 0xaf298628cfdf22ff
+  arg[2](table) = table: 0xb5a7cdc79f058959
+[#424] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x3a466cf8ab942576
+  arg[2](table) = table: 0x7cdbc2594ef08d1b
+[#425] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x7897f1482799be4c
+  arg[2](table) = table: 0x0c1680045c48b0a2
+[#426] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:26
+  arg[1](buffer) = buffer: 0x4f524e016685fd15
+  arg[2](table) = table: 0x21bd8e5bcba34413
+[#427] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0xdf35bf5a95535bcf
+  arg[2](table) = table: 0x126442ec4b2f942e
+[#428] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x3ed64f0eec2879d1
+  arg[2](table) = table: 0x5936f527846d9f5a
+[#429] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x9b47a3103aa2aff3
+  arg[2](table) = table: 0xc55702bb1aedd21b
+[#430] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.ReplicateFinisher | 03:08:26
+  arg[1](buffer) = buffer: 0x3fe1776798f6ed94
+  arg[2](table) = table: 0x3a16b62935eff1c7
+[#431] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.UI.UIPlayerKilled | 03:08:26
+  arg[1](buffer) = buffer: 0x16308739517197e1
+  arg[2](table) = table: 0xfe973cedd1156a91
+[#432] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x14420ca968bee45b
+  arg[2](table) = table: 0x9be6895bb50664c5
+[#433] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xc00f30235e6cfa6c
+  arg[2](table) = table: 0x62243f6fcf149343
+[#434] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0xc5e75b08342d2364
+  arg[2](table) = table: 0x4660e4d30fa1aa0d
+[#435] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:26
+  arg[1](buffer) = buffer: 0xc0a47edc2dfb15b6
+  arg[2](table) = table: 0x294a5fe7886e33b4
+[#436] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:26
+  arg[1](buffer) = buffer: 0x53800cdf074a0362
+  arg[2](table) = table: 0x76e21fcf5930725e
+[#437] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x2d1bdc2ff93c8aae
+  arg[2](table) = table: 0xf7e44df279c6599d
+[#438] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x63082a99d768fa72
+  arg[2](table) = table: 0x87703d5a2b5b5c34
+[#439] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:26
+  arg[1](buffer) = buffer: 0x9a77421d25525200
+  arg[2](table) = table: 0xcd07fb35533f98ce
+[#440] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0xa9360d461bdc1b11
+  arg[2](table) = table: 0x79f75b20d0e0f0ad
+[#441] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x1cb7c052afd1950f
+  arg[2](table) = table: 0x74381bd8590b1b64
+[#442] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x356b19316e7b6d48
+  arg[2](table) = table: 0x8ffa379a94a276df
+[#443] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:26
+  arg[1](buffer) = buffer: 0x4a3ad805e7400803
+  arg[2](table) = table: 0x3085a580e8a54a64
+[#444] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0xfa0910aa6e12ce4f
+  arg[2](table) = table: 0x36c357b972ed0fbd
+[#445] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:26
+  arg[1](buffer) = buffer: 0xf5fd3d87713ea0c7
+  arg[2](table) = table: 0x93d9605b9adfee97
+[#446] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:26
+  arg[1](buffer) = buffer: 0x49b858ec7b8e264a
+  arg[2](table) = table: 0xb4f9bf248d5c74ff
+[#447] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x04d1f7a94b9f809c
+  arg[2](table) = table: 0x33bd87a2bbf1ff97
+[#448] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0xfb505e48453bec49
+  arg[2](table) = table: 0xf764b3ae55d57ac1
+[#449] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:26
+  arg[1](buffer) = buffer: 0x5c857a15d8943aa9
+  arg[2](table) = table: 0x341a1d8f687faeba
+[#450] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0xe1db7c4f6e7b6011
+  arg[2](table) = table: 0x84e4d5875db10012
+[#451] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:26
+  arg[1](buffer) = buffer: 0xf4e4b253dee78605
+  arg[2](table) = table: 0x8ab4aed6ee0d23f8
+[#452] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:26
+  arg[1](buffer) = buffer: 0xda18e4c74c76dd1b
+  arg[2](table) = table: 0x4d465dac44c118de
+[#453] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x32eefe9b10320215
+  arg[2](table) = table: 0x4acb93e75e496ad7
+[#454] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.PlayerData.PlayerDataChanged | 03:08:26
+  arg[1](buffer) = buffer: 0x7de34550cf011e0a
+  arg[2](table) = table: 0x8949ff1b28220f23
+[#455] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x1dcd325b077d21da
+  arg[2](table) = table: 0x6390dc6ef7feb191
+[#456] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0xbb92f127d92df346
+  arg[2](table) = table: 0x71eb6f97127d705d
+[#457] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x98b60fea8d1f5bb8
+  arg[2](table) = table: 0x05f900d4e2c75914
+[#458] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x5fa933e2be584c53
+  arg[2](table) = table: 0xb57bf25ccbc592f5
+[#459] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x3477b929f5c3a8ce
+  arg[2](table) = table: 0xab8e227ee11ed7f4
+[#460] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x0a627f45178dce87
+  arg[2](table) = table: 0x9f81d69b6eb7d5b9
+[#461] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:26
+  arg[1](buffer) = buffer: 0xcb6740755232846c
+  arg[2](table) = table: 0x02b590f7dc942445
+[#462] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x29cfe0e1c2f0096e
+  arg[2](table) = table: 0xc49ba6b4d47cf358
+[#463] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:26
+  arg[1](buffer) = buffer: 0x69420c996a8f6393
+  arg[2](table) = table: 0x9819ea9c880f4cae
+[#464] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:26
+  arg[1](buffer) = buffer: 0xa37b77aefae7b75e
+  arg[2](table) = table: 0x1075810eae03d296
+[#465] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x3a5b5b341239b89c
+  arg[2](table) = table: 0x795dea4fefaaf83f
+[#466] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.PlayerData.PlayerDataChanged | 03:08:26
+  arg[1](buffer) = buffer: 0x3635ad4a673f92a0
+  arg[2](table) = table: 0xf0ffcb6356f68bc1
+[#467] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xfe76643ad2e7daef
+  arg[2](table) = table: 0xe891c5c1ed8bce8b
+[#468] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x8efcd67c8a83b0b1
+  arg[2](table) = table: 0x57bf967dc693d29e
+[#469] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xcf4d9291f69f705c
+  arg[2](table) = table: 0x0b83e4ebe0322fb9
+[#470] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x62628ddb9e29b7b8
+  arg[2](table) = table: 0x5e9b63a182ddffa9
+[#471] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xa290015e1f451228
+  arg[2](table) = table: 0xdfbdc38bcf5446c8
+[#472] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0xaf5f94449ddd7f61
+  arg[2](table) = table: 0xcc3d9238028af815
+[#473] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:26
+  arg[1](buffer) = buffer: 0x2d55010e8725ab14
+  arg[2](table) = table: 0x91212c59ab638d50
+[#474] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x6ea2c3a8441d0f03
+  arg[2](table) = table: 0xc4642e94aeef7945
+[#475] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:26
+  arg[1](buffer) = buffer: 0x6559ff8fb07d087e
+  arg[2](table) = table: 0x6286a15a5acfde94
+[#476] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:26
+  arg[1](buffer) = buffer: 0x627446a5d703b75b
+  arg[2](table) = table: 0x81e19bda3a5cfdb9
+[#477] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x3cc3f31449b3962c
+  arg[2](table) = table: 0x4e60ad7513b56085
+[#478] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x29f01b0a065997c9
+  arg[2](table) = table: 0xa8de33cb88d2570c
+[#479] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:26
+  arg[1](buffer) = buffer: 0xb868ce8542b6cc75
+  arg[2](table) = table: 0x28af3b011659f204
+[#480] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x035bad4c0ff2d6cf
+  arg[2](table) = table: 0x702afdac2550b1c0
+[#481] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x77c1259860182d68
+  arg[2](table) = table: 0xe9a04b0e79c1e19f
+[#482] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x8cd9ee957a079b20
+  arg[2](table) = table: 0xbae1f545aeb3dc1f
+[#483] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:26
+  arg[1](buffer) = buffer: 0x03979221d691a37b
+  arg[2](table) = table: 0x6063b887445a9540
+[#484] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:26
+  arg[1](buffer) = buffer: 0x9c836f4e4e7e3bc8
+  arg[2](table) = table: 0x7515f8169c35c0f5
+[#485] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x28c9cc5df67226f2
+  arg[2](table) = table: 0x496dbbdbefaf28e0
+[#486] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x64a54fb29278c100
+  arg[2](table) = table: 0x02282af1d86a9520
+[#487] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xd454bf17bc2689bb
+  arg[2](table) = table: 0x5d528f3e770a05fe
+[#488] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x06c47b46ecf06427
+  arg[2](table) = table: 0x1331c8880fce09a2
+[#489] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xd8b83944ba425a67
+  arg[2](table) = table: 0x6ea44fdb0e3f8da4
+[#490] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x602fac8ed4dd075e
+  arg[2](table) = table: 0x57983f44f9e54a19
+[#491] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:26
+  arg[1](buffer) = buffer: 0x5ee21363dbb580fe
+  arg[2](table) = table: 0x603dce58701a8244
+[#492] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0xac3579aa380d92a5
+  arg[2](table) = table: 0xc55ba07e610fcea1
+[#493] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x335e76a5fc8a59de
+  arg[2](table) = table: 0x5dc779ab3315c475
+[#494] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:26
+  arg[1](buffer) = buffer: 0xbc608b572eaf553a
+  arg[2](table) = table: 0x55711c80255436e0
+[#495] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:26
+  arg[1](buffer) = buffer: 0x4d24cab396e21f38
+  arg[2](table) = table: 0x1394170bf9da91f5
+[#496] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xfeecaea482e3bb8a
+  arg[2](table) = table: 0x233855cd6d9e58db
+[#497] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x0d7575b3eacb29f2
+  arg[2](table) = table: 0xb1538d8902519e37
+[#498] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x4f3d8e51acca3ab2
+  arg[2](table) = table: 0xe3ed045bf7e268d6
+[#499] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x6b5b078057dd9523
+  arg[2](table) = table: 0x9b7b2708ac8b95ba
+[#500] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xb92b5d4e2bdc6b06
+  arg[2](table) = table: 0x95d79f32e5c5fbe0
+[#501] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0xb2108fb2b38fcd9b
+  arg[2](table) = table: 0xb2fe0fdfb14cc23b
+[#502] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x4fabf534959da26a
+  arg[2](table) = table: 0x31c9b623c13172aa
+[#503] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x4564818025ca1506
+  arg[2](table) = table: 0xbccbe96f6e2532cd
+[#504] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x0fdeb9f154f0caf5
+  arg[2](table) = table: 0x33bf60186f401156
+[#505] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x2ebfe8413ed497b8
+  arg[2](table) = table: 0xdeefdbac50cb1dd9
+[#506] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x92bbf2c747868b8e
+  arg[2](table) = table: 0xfa2df482d069889a
+[#507] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x8ce126ad62c74da8
+  arg[2](table) = table: 0x1ddd7f4d0feafaf3
+[#508] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xbfb7462f5b79c3c9
+  arg[2](table) = table: 0xd268c3a3adcaec43
+[#509] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x22870fc446d3378c
+  arg[2](table) = table: 0x2e09901e67c57fb2
+[#510] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x47d0b1cfb0836068
+  arg[2](table) = table: 0x33f49e686d71c7d8
+[#511] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x0eaf307a05258ee1
+  arg[2](table) = table: 0x97657daf95a14bce
+[#512] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x23cc29c10c3e6f3e
+  arg[2](table) = table: 0xad8a168fe37ecc38
+[#513] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0xf3ddee780bf47e47
+  arg[2](table) = table: 0x0bca9a8b5e276967
+[#514] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x725182fd14803369
+  arg[2](table) = table: 0x5dc52478a36da90c
+[#515] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x1861e15a8831761b
+  arg[2](table) = table: 0x02fefbf4b642c923
+[#516] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xff6bd9e67c48a0c0
+  arg[2](table) = table: 0xc93f246ba64200ba
+[#517] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x5ab67fb264de4249
+  arg[2](table) = table: 0xc020620afe8f8f9f
+[#518] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xcf0ea3fc7b0508b8
+  arg[2](table) = table: 0x97f96c520041d9f4
+[#519] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x0174d2cb8ebdf16f
+  arg[2](table) = table: 0x89f765d87e68c6d4
+[#520] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xbdb7aae5c4edc214
+  arg[2](table) = table: 0x606529a752c1d101
+[#521] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x540e6a041214fe19
+  arg[2](table) = table: 0x531c72f1db2dc7ed
+[#522] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:26
+  arg[1](buffer) = buffer: 0x5012427bb79c1a76
+  arg[2](table) = table: 0x67dbc646c5e2b986
+[#523] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x48501d43f1c6ab6f
+  arg[2](table) = table: 0xa37c7b5fe3260a5a
+[#524] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:26
+  arg[1](buffer) = buffer: 0xc18c144926ba9745
+  arg[2](table) = table: 0x3ddac22a9f79c9e7
+[#525] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:26
+  arg[1](buffer) = buffer: 0xcf486e9b3241529e
+  arg[2](table) = table: 0x5833f0f30ec36de3
+[#526] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x7ebfecbb981fb98c
+  arg[2](table) = table: 0x7ac671049dce2e4c
+[#527] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x6d187f3da9071dc0
+  arg[2](table) = table: 0x158f2616bc83305c
+[#528] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xca8ae529e7da1b40
+  arg[2](table) = table: 0x29924597cf8c3245
+[#529] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x1e95b4f305ed2a28
+  arg[2](table) = table: 0xa8fa72c4f4a3d26f
+[#530] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x9d7d5a3e18f123dc
+  arg[2](table) = table: 0xda6155c852387eff
+[#531] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0xb2a106c08c5b2ee1
+  arg[2](table) = table: 0x20f23c2dc67f017b
+[#532] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:26
+  arg[1](buffer) = buffer: 0x652feab818265795
+  arg[2](table) = table: 0xfd037d4ef6cfd1da
+[#533] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0xceea37cfd01ba740
+  arg[2](table) = table: 0x953e1c0ad44760b2
+[#534] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x12aa7eb5111451d9
+  arg[2](table) = table: 0x1532a595472d73dd
+[#535] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x18cf1d9df19a1c6c
+  arg[2](table) = table: 0x4f821ebaac4bbc56
+[#536] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:26
+  arg[1](buffer) = buffer: 0x841e5a0376f78582
+  arg[2](table) = table: 0x333964424e671a06
+[#537] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:26
+  arg[1](buffer) = buffer: 0x00128ae60b827bfa
+  arg[2](table) = table: 0x581c08e64b0b2098
+[#538] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xced7ebfff92faba7
+  arg[2](table) = table: 0x522cdd4a2f9f389f
+[#539] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.PlayerData.PlayerDataChanged | 03:08:26
+  arg[1](buffer) = buffer: 0xed98ae00e73d1e68
+  arg[2](table) = table: 0x0d5f215b54a03ca9
+[#540] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x47ccfc1360b123f3
+  arg[2](table) = table: 0x60f9f9b6e10bdbf8
+[#541] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x7a6d113081832d69
+  arg[2](table) = table: 0xe2f4f32ce601cf44
+[#542] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x2c9586b3e56dffdc
+  arg[2](table) = table: 0x7d8bc9f30147e64b
+[#543] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x7bcda0487d08bd69
+  arg[2](table) = table: 0x400fd0935c47d33a
+[#544] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x070e22124ebd0c20
+  arg[2](table) = table: 0x666e7941a6b1440d
+[#545] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x68f71ef2ee02cc34
+  arg[2](table) = table: 0xe3235a60afd2ecc5
+[#546] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x7dba10af53451c4f
+  arg[2](table) = table: 0x403d545a3a098e7b
+[#547] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x67fbcfdd505b8a77
+  arg[2](table) = table: 0x56a7493aa37f15e5
+[#548] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xa8440ce87b77db02
+  arg[2](table) = table: 0x54478e494395f20d
+[#549] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0xf3c0d2b387379330
+  arg[2](table) = table: 0x4f17ec49dbded392
+[#550] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:26
+  arg[1](buffer) = buffer: 0x42c182cb6a068fef
+  arg[2](table) = table: 0xab6789c85947a290
+[#551] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.GlobalMarketplace.ClearListing | 03:08:26
+  arg[1](buffer) = buffer: 0xe8f7631282c2b22b
+  arg[2](table) = table: 0xd0e5017671f6b45e
+[#552] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x4d7e9a1897bd4519
+  arg[2](table) = table: 0xed3ae3be7281daea
+[#553] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x1dfd23af50c06524
+  arg[2](table) = table: 0x348529ce4af1876e
+[#554] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x676d2f7ab2b52bdf
+  arg[2](table) = table: 0xf93b4c5a7ea4ec60
+[#555] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Player.BlankRequest | 03:08:26
+  arg[1](buffer) = buffer: 0x9622c1b61abf831e
+  arg[2](table) = table: 0xf143d849a6d452a3
+[#556] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:26
+  arg[1](buffer) = buffer: 0xd82b419d13a78108
+  arg[2](table) = table: 0xfabe785966ae89f4
+[#557] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:26
+  arg[1](buffer) = buffer: 0x7fc9bb4c70f69279
+  arg[2](table) = table: 0xb38655d22ac2820f
+[#558] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xa9b74dd4dbe491aa
+  arg[2](table) = table: 0x074326243919a6a4
+[#559] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x60210477c1be9efb
+  arg[2](table) = table: 0x42fbedac064e10e8
+[#560] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xcf153c6a5e959a0e
+  arg[2](table) = table: 0x417bae12e0901247
+[#561] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0xebbf4bf779c63b4c
+  arg[2](table) = table: 0x32593491d1a85bf4
+[#562] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:26
+  arg[1](buffer) = buffer: 0xcccedb86d955c51b
+  arg[2](table) = table: 0x19d6684c73118fc0
+[#563] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0x80c10336d83000de
+  arg[2](table) = table: 0x43adfa35162dcb42
+[#564] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x052d0104082db005
+  arg[2](table) = table: 0xbaeec2d341d5137d
+[#565] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x22b9d341e8b7c84e
+  arg[2](table) = table: 0x9256dbd5bad78b75
+[#566] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:26
+  arg[1](buffer) = buffer: 0x389c7b5bc9780eef
+  arg[2](table) = table: 0x85707e00351d91c6
+[#567] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:26
+  arg[1](buffer) = buffer: 0x3b11015d15aecadb
+  arg[2](table) = table: 0x999779744d808ee8
+[#568] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x760d0cdfced8ca2d
+  arg[2](table) = table: 0xb9eac22a3a67d6c2
+[#569] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0xa8ca42faacaa726a
+  arg[2](table) = table: 0x1f591fbaa221ed42
+[#570] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:26
+  arg[1](buffer) = buffer: 0x5db7ddb5c68bd10f
+  arg[2](table) = table: 0x4ca4b99e08286eb5
+[#571] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0xff9e45891b04c0d5
+  arg[2](table) = table: 0x84da1305b26cab2c
+[#572] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:26
+  arg[1](buffer) = buffer: 0xa9ed3189bdadca10
+  arg[2](table) = table: 0x40d5b7bbc3bf5780
+[#573] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:26
+  arg[1](buffer) = buffer: 0x5d8f5802c51046d5
+  arg[2](table) = table: 0x1149e992511454f9
+[#574] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:26
+  arg[1](buffer) = buffer: 0x8afb0aa095084bb0
+  arg[2](table) = table: 0x1eb843f86199e9b6
+[#575] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0x9f6259cfb9a3876d
+  arg[2](table) = table: 0xdb4c52a516b0a3bb
+[#576] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x92c0ddb728d0ca90
+  arg[2](table) = table: 0xcdaf6b479acabd99
+[#577] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:26
+  arg[1](buffer) = buffer: 0xece2c83de3df59eb
+  arg[2](table) = table: 0xb92e03dd9af6fdde
+[#578] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:26
+  arg[1](buffer) = buffer: 0x0a9375f2e6d43956
+  arg[2](table) = table: 0x461f633c41dcaf69
+[#579] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xcfce31a87dbcadc7
+  arg[2](table) = table: 0xd056cdccd870cd38
+[#580] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x99a643cde4b504af
+  arg[2](table) = table: 0x25c75aa46c9fc99d
+[#581] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:27
+  arg[1](buffer) = buffer: 0x1f4e608117acc79f
+  arg[2](table) = table: 0x1b32925a276bf7e2
+[#582] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x56077aeaf8e3c039
+  arg[2](table) = table: 0x944048f4197a394a
+[#583] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xe7f03a817caa2a9b
+  arg[2](table) = table: 0x22ca7c82bb2de073
+[#584] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x767adf0d35763b1f
+  arg[2](table) = table: 0x76063fa888a99e74
+[#585] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:27
+  arg[1](buffer) = buffer: 0xa23304afefa0a064
+  arg[2](table) = table: 0xbcf5095bfe82a47a
+[#586] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:27
+  arg[1](buffer) = buffer: 0xcf88eb99491efea3
+  arg[2](table) = table: 0xb6513be125225a72
+[#587] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xf7fd2f6301be78bd
+  arg[2](table) = table: 0x8683108a65ac10f5
+[#588] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x96d1265d3df715b5
+  arg[2](table) = table: 0x6cb854d01f1d58c4
+[#589] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:27
+  arg[1](buffer) = buffer: 0x8c0af3c0d4de564d
+  arg[2](table) = table: 0x8287f4c6b6680789
+[#590] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x2d734b7ad52d39d2
+  arg[2](table) = table: 0xd7b984a8adcb68cd
+[#591] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x125f43820ad4b1cb
+  arg[2](table) = table: 0xb967b7b532931682
+[#592] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x140e31e307fe5d47
+  arg[2](table) = table: 0x0653f0988e2d0ba4
+[#593] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:27
+  arg[1](buffer) = buffer: 0x110ffa93ed22c748
+  arg[2](table) = table: 0xb4299f4afc0eb5c6
+[#594] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:27
+  arg[1](buffer) = buffer: 0x0a9ea070280b75d1
+  arg[2](table) = table: 0x58cadb3c5b195acf
+[#595] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x9e8468b454b654b4
+  arg[2](table) = table: 0x185db883f1745d0c
+[#596] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x237998439471fe40
+  arg[2](table) = table: 0xe02eec077943c5bb
+[#597] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:27
+  arg[1](buffer) = buffer: 0x31f213821707b015
+  arg[2](table) = table: 0x03ddde3b329393cc
+[#598] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x11a97334b09ef3d2
+  arg[2](table) = table: 0xdf278e024b165aea
+[#599] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:27
+  arg[1](buffer) = buffer: 0xf799ef8496a2e0d9
+  arg[2](table) = table: 0xa394ffdd52fe0c36
+[#600] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:27
+  arg[1](buffer) = buffer: 0xa2c183d3c7f5b91d
+  arg[2](table) = table: 0x92981a5ee53c7417
+[#601] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x3158c502ff423a3b
+  arg[2](table) = table: 0xda045a6a4a674689
+[#602] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x98e7a5138a6b4e24
+  arg[2](table) = table: 0xea3f99f5fdb1bc35
+[#603] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xa6550ee591337330
+  arg[2](table) = table: 0x93ed51614e631ecc
+[#604] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xdf2b906cf4a04b18
+  arg[2](table) = table: 0x932fe0f637ab2248
+[#605] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xbe5282cbb2d12d11
+  arg[2](table) = table: 0xad6d5b95f06184e3
+[#606] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x6b3fe5782f7fa298
+  arg[2](table) = table: 0x64a3057fe85b33dc
+[#607] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xb1f010d2a62b485f
+  arg[2](table) = table: 0xc20ccad0ee29f62f
+[#608] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x95e401edaea5d8f5
+  arg[2](table) = table: 0xad9af832fda29088
+[#609] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x534726bfbaaa2745
+  arg[2](table) = table: 0xd91d44d2339c74f8
+[#610] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x3a3fb56b84691974
+  arg[2](table) = table: 0xdd92ba758ebad794
+[#611] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:27
+  arg[1](buffer) = buffer: 0xe134895b6f35ba8c
+  arg[2](table) = table: 0xe453652cc3fc9a62
+[#612] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x4f1285e8d1e0160b
+  arg[2](table) = table: 0x7e0997b3c6b3a7fa
+[#613] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x1e5f07d08b7e69a9
+  arg[2](table) = table: 0x0dee940c4bd64596
+[#614] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x43fef344193c9d45
+  arg[2](table) = table: 0x31e7c2030e01e2ac
+[#615] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:27
+  arg[1](buffer) = buffer: 0x94056962e3c1685c
+  arg[2](table) = table: 0x26e66461043afc70
+[#616] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:27
+  arg[1](buffer) = buffer: 0x5ac31926bb8d9ea1
+  arg[2](table) = table: 0x148ffce5dc1d0c93
+[#617] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xd54b9b7228c6097f
+  arg[2](table) = table: 0xd5a146e652236e5c
+[#618] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x20e6d218198a6620
+  arg[2](table) = table: 0x6f54157fa0916426
+[#619] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xc8f342d555c61294
+  arg[2](table) = table: 0x1378add1398c1df2
+[#620] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x89900e541ea63806
+  arg[2](table) = table: 0xb7b9cd4bd8cc21c3
+[#621] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x306ba4b2010eb2e9
+  arg[2](table) = table: 0xc5c5563249a6b9d1
+[#622] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xa1ab704e3c68cbd2
+  arg[2](table) = table: 0x2bb437f5432481a3
+[#623] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:27
+  arg[1](buffer) = buffer: 0x32cba7fc42f57cf8
+  arg[2](table) = table: 0x73dd8a1e804fe760
+[#624] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0xc03307ec3e698776
+  arg[2](table) = table: 0xb14cce19ee09563d
+[#625] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:27
+  arg[1](buffer) = buffer: 0x0d6f03f40c8f569e
+  arg[2](table) = table: 0x8165a53cbc9fa413
+[#626] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:27
+  arg[1](buffer) = buffer: 0xc72a59ce3348326d
+  arg[2](table) = table: 0x39c1552d0e936c9e
+[#627] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x17c5e68a230acb08
+  arg[2](table) = table: 0x84ae164116de62bb
+[#628] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x8c1bd1f07203c557
+  arg[2](table) = table: 0x0ff0e18ed3c80b29
+[#629] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x3f3c836a7ae9e5fe
+  arg[2](table) = table: 0xbca9f1ee2ab8aac8
+[#630] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x544c3579598d8916
+  arg[2](table) = table: 0xa722e1dd20fe2c9f
+[#631] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xa09b1971738c0b03
+  arg[2](table) = table: 0x5136f04db49e5a24
+[#632] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xf4159071799dd263
+  arg[2](table) = table: 0xd8c8324fcf275c26
+[#633] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x454b5115d6bd9cf1
+  arg[2](table) = table: 0xdea7491f02e50434
+[#634] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xa6fc09ac52c7fea0
+  arg[2](table) = table: 0x05658a17e41c700d
+[#635] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xd97eea10540ce6db
+  arg[2](table) = table: 0xaa6c6632b7c514bd
+[#636] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x86074fca2a9e1f73
+  arg[2](table) = table: 0x7a7afc82cf2de422
+[#637] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:27
+  arg[1](buffer) = buffer: 0xedf86d2e07c45c09
+  arg[2](table) = table: 0xaf3767985ccb895a
+[#638] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x6dc5d4f292058547
+  arg[2](table) = table: 0x9db3c0e3a78be457
+[#639] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xefdab52e1f5fc0c2
+  arg[2](table) = table: 0x17e28d6652b062da
+[#640] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x69800934cca06281
+  arg[2](table) = table: 0x182e100cd5c243da
+[#641] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xc7a4ea5e2015fe4e
+  arg[2](table) = table: 0x5f1b07383a6b3a3e
+[#642] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xde4b849b21f4203d
+  arg[2](table) = table: 0xb3c0050afe81c9ad
+[#643] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x68789882b2ab153f
+  arg[2](table) = table: 0xcbcdadf27ceae4b0
+[#644] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0xa1aca27584d77581
+  arg[2](table) = table: 0x5463320a398061ec
+[#645] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x34365d218a608051
+  arg[2](table) = table: 0xedb19b8275950867
+[#646] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:27
+  arg[1](buffer) = buffer: 0xc6d1f49fffa62a47
+  arg[2](table) = table: 0x8c2b42daa743ddd2
+[#647] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:27
+  arg[1](buffer) = buffer: 0xbbb425175863579d
+  arg[2](table) = table: 0xb38b9ae092371d69
+[#648] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xba69d731e7dc506f
+  arg[2](table) = table: 0xb15a1f23befc2282
+[#649] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x9c211be871b01d1a
+  arg[2](table) = table: 0xefddb37d811ab954
+[#650] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x05eba78fb391c238
+  arg[2](table) = table: 0x23f4a057ec5a63e2
+[#651] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xb6117f748da05869
+  arg[2](table) = table: 0x71ca58af0b3a4a28
+[#652] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xcac603fd6cb6dc52
+  arg[2](table) = table: 0xdc224380fff57e07
+[#653] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xdfbde481d7419633
+  arg[2](table) = table: 0x57a4ee398b706df8
+[#654] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:27
+  arg[1](buffer) = buffer: 0xc000949f9bd631f7
+  arg[2](table) = table: 0x21fcee0c93b78891
+[#655] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x477081f432d3a004
+  arg[2](table) = table: 0xe9f32dfa1fc655bb
+[#656] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x7e22f83f778e1529
+  arg[2](table) = table: 0xc2cd47fcbcc18c65
+[#657] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xd0ff1f2b3b6d4f73
+  arg[2](table) = table: 0xbccdd446eb96e4e3
+[#658] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x207119a06c248b75
+  arg[2](table) = table: 0x1bc6394753c44445
+[#659] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:27
+  arg[1](buffer) = buffer: 0x0b458b9549685f0f
+  arg[2](table) = table: 0xc1885353aaccd66f
+[#660] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:27
+  arg[1](buffer) = buffer: 0x7f38ac2049e0e68d
+  arg[2](table) = table: 0x4731d5663ba58eac
+[#661] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xca66d5b35aa9965d
+  arg[2](table) = table: 0xa90466f483185ed1
+[#662] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x02a422c33357ad87
+  arg[2](table) = table: 0xba334a9a68ae15f2
+[#663] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x2e17f0f0d4860897
+  arg[2](table) = table: 0x91285044b3e0f26f
+[#664] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x416edd178762d071
+  arg[2](table) = table: 0xb118dd830fd46d00
+[#665] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x590c16d8ff6437aa
+  arg[2](table) = table: 0xfabcabeeba303592
+[#666] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xa42493705cabe83a
+  arg[2](table) = table: 0x429730edc20c5a4e
+[#667] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:27
+  arg[1](buffer) = buffer: 0x540ee745e025d4e6
+  arg[2](table) = table: 0x419af7debf95e4ef
+[#668] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x49651fcf7a98d25c
+  arg[2](table) = table: 0xe27073ffc7a5d338
+[#669] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x8221fb7966075ed2
+  arg[2](table) = table: 0xac30c95d0ffc12de
+[#670] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:27
+  arg[1](buffer) = buffer: 0xc48251f85b0673a8
+  arg[2](table) = table: 0xca9b64e0dcee8f85
+[#671] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:27
+  arg[1](buffer) = buffer: 0xf27e0f3644e2733c
+  arg[2](table) = table: 0x05e66b9dc613e198
+[#672] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:27
+  arg[1](buffer) = buffer: 0xb66d505d5654216e
+  arg[2](table) = table: 0x2716469297b65c62
+[#673] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x963e6b4926ff1957
+  arg[2](table) = table: 0x3bb97cfc38ea1e18
+[#674] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Inventory.SpectatedPlayerInventory | 03:08:27
+  arg[1](buffer) = buffer: 0x8b5a065d05f1d305
+  arg[2](table) = table: 0x819bd2084c0f6b86
+[#675] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:27
+  arg[1](buffer) = buffer: 0xb1ad54bb2e722895
+  arg[2](table) = table: 0xdb85d748b995d57b
+[#676] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:27
+  arg[1](buffer) = buffer: 0xf37bde01d0660b27
+  arg[2](table) = table: 0xf77cf5f20956b59b
+[#677] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xa01af9a395b1ade8
+  arg[2](table) = table: 0x7df9e1460875f412
+[#678] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x023cede59b345e4b
+  arg[2](table) = table: 0x0abdc9c7796dfd9d
+[#679] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x8a20801f458f73c6
+  arg[2](table) = table: 0x0b17726844a02a16
+[#680] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x31ec832485ef0cd5
+  arg[2](table) = table: 0x1c1b638d670ae65b
+[#681] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x93a9821c8d8da0bb
+  arg[2](table) = table: 0x1be41a9c39ae17f4
+[#682] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xaeb609d51204e06f
+  arg[2](table) = table: 0x0783c15412f43237
+[#683] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:27
+  arg[1](buffer) = buffer: 0x708ce2533145cefb
+  arg[2](table) = table: 0x292d7706835bd171
+[#684] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x8cbc7afb254939eb
+  arg[2](table) = table: 0x32a7ba080db99c87
+[#685] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x6338ba884f841fcf
+  arg[2](table) = table: 0x0f4bfe545825d40a
+[#686] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:27
+  arg[1](buffer) = buffer: 0x1ebcca654c1d2245
+  arg[2](table) = table: 0xb0da96c6ea84e459
+[#687] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:27
+  arg[1](buffer) = buffer: 0x55b686335c4b4860
+  arg[2](table) = table: 0x154f67f539653ff9
+[#688] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x908dd3f9a3ad93a6
+  arg[2](table) = table: 0x90195108d8a3936e
+[#689] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x58415113c3bba6e1
+  arg[2](table) = table: 0x72e72cfd0b954d4e
+[#690] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xe11e253766420a94
+  arg[2](table) = table: 0xa330715b02096b5d
+[#691] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x6758a6c47155c877
+  arg[2](table) = table: 0x879a0356ed051a58
+[#692] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x9e57f87139d23ae0
+  arg[2](table) = table: 0xef87b29b90efc300
+[#693] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xeefbcf3974ee8ef5
+  arg[2](table) = table: 0x71a81d7e4c30a63b
+[#694] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x138e2fa960673ce4
+  arg[2](table) = table: 0xfb704deb100dc052
+[#695] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xf8817da7e781b819
+  arg[2](table) = table: 0xa54043f872a18085
+[#696] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x906d4108b20d71dd
+  arg[2](table) = table: 0xd2401693dd203f02
+[#697] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xee5b958785b81670
+  arg[2](table) = table: 0xf0acd6a1a2135b24
+[#698] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xf431cbce8393ae2c
+  arg[2](table) = table: 0x5119de563efa69d5
+[#699] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x625da539c9537e49
+  arg[2](table) = table: 0x80dc57c2cc069ae4
+[#700] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x8e2db54aefa3ce59
+  arg[2](table) = table: 0x6eb22d6891c48d2f
+[#701] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0x814ec3e4a0b3a6ce
+  arg[2](table) = table: 0x51dfd22afedcbe0e
+[#702] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:27
+  arg[1](buffer) = buffer: 0x7cafc899fcd4642c
+  arg[2](table) = table: 0xf66a9bacd4a78c25
+[#703] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0xed77d4af2eee0774
+  arg[2](table) = table: 0x36110acaf9f05f95
+[#704] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x3a8cf22539f07672
+  arg[2](table) = table: 0xe980ff6dd88016b8
+[#705] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:27
+  arg[1](buffer) = buffer: 0x054548f100c3c9f0
+  arg[2](table) = table: 0xc7432a7ca66c3fc9
+[#706] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:27
+  arg[1](buffer) = buffer: 0x993c19e8fc390cdb
+  arg[2](table) = table: 0x900c4d175d2af86b
+[#707] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0xb0b9cedfd16ad4f0
+  arg[2](table) = table: 0xccce4bee478826cb
+[#708] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xb5f46b91557ed769
+  arg[2](table) = table: 0xdd468f5c3f8bf07e
+[#709] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:27
+  arg[1](buffer) = buffer: 0x9e3d5138167c4a69
+  arg[2](table) = table: 0x20c38adbd041baed
+[#710] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0xfb4d0dbb67b17192
+  arg[2](table) = table: 0x0bfee7e9e019a0d6
+[#711] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:27
+  arg[1](buffer) = buffer: 0xa315a1cee20440d4
+  arg[2](table) = table: 0xfea43f16eab488e4
+[#712] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:27
+  arg[1](buffer) = buffer: 0xa8ce4959e0a8ff67
+  arg[2](table) = table: 0xeaf85873c2e20ac7
+[#713] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:27
+  arg[1](buffer) = buffer: 0x843f1ea67dc2364f
+  arg[2](table) = table: 0x06159ea50ca73d9d
+[#714] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:27
+  arg[1](buffer) = buffer: 0xe45a854ae014255c
+  arg[2](table) = table: 0xc103e02b1540f4e5
+[#715] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:27
+  arg[1](buffer) = buffer: 0x2db3804415ae5e65
+  arg[2](table) = table: 0x05f81d07af70fd2b
+[#716] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:27
+  arg[1](buffer) = buffer: 0x9ac2dd9fde32c8c6
+  arg[2](table) = table: 0x27a4075611abad9e
+[#717] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Sound.ReplicateSound | 03:08:28
+  arg[1](buffer) = buffer: 0x6e70aea2338ca8fe
+  arg[2](table) = table: 0x35dab986a6f58a2f
+[#718] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateCharacterMuzzleFlash | 03:08:28
+  arg[1](buffer) = buffer: 0x541508430f5c20e7
+  arg[2](table) = table: 0x4e2647ea42f939d2
+[#719] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateTracer | 03:08:28
+  arg[1](buffer) = buffer: 0x091d78f43f384cc2
+  arg[2](table) = table: 0xc8c0feaf5962cfa5
+[#720] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateImpact | 03:08:28
+  arg[1](buffer) = buffer: 0x8bdee6c849a95fe9
+  arg[2](table) = table: 0x827453deb3e079cf
+[#721] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.VFX.CreateMarker | 03:08:28
+  arg[1](buffer) = buffer: 0xcdc475acf2d593f0
+  arg[2](table) = table: 0x77a3867b8539d466
+[#722] OnClientEvent | game.ReplicatedStorage.NetworkRemotes.Character.Action | 03:08:28
+  arg[1](buffer) = buffer: 0x70785e3bda161582
+  arg[2](table) = table: 0xd8235fb28109e3a8
